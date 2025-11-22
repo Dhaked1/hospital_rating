@@ -1,0 +1,4616 @@
+Facility ID,H_CLEAN_HSP_A_P,H_CLEAN_HSP_SN_P,H_CLEAN_HSP_U_P,H_CLEAN_STAR_RATING
+10001,65,15,20,2
+10005,67,10,23,3
+10006,58,19,23,1
+10007,66,12,22,2
+10008,87,1,12,Not Available
+10011,58,17,25,1
+10012,73,10,17,3
+10016,62,15,23,2
+10018,86,1,13,Not Available
+10019,71,8,21,3
+10021,78,14,8,3
+10022,83,2,15,Not Available
+10023,67,14,19,2
+10024,59,17,24,1
+10029,69,12,19,3
+10033,61,15,24,2
+10034,81,5,14,Not Available
+10035,64,13,23,2
+10036,75,5,20,4
+10039,68,12,20,3
+10040,52,20,28,1
+10044,95,2,3,Not Available
+10045,87,5,8,5
+10046,66,15,19,2
+10049,67,14,19,2
+10051,Not Available,Not Available,Not Available,Not Available
+10052,77,8,15,4
+10055,72,9,19,3
+10056,62,15,23,2
+10058,87,0,13,Not Available
+10059,70,10,20,Not Available
+10061,74,9,17,3
+10062,78,16,6,Not Available
+10065,70,13,17,2
+10069,74,7,19,3
+10073,80,4,16,Not Available
+10078,60,21,19,1
+10079,71,11,18,3
+10083,71,12,17,3
+10085,76,8,16,4
+10086,82,2,16,5
+10087,61,18,21,1
+10089,54,18,28,1
+10090,67,13,20,2
+10091,78,11,11,Not Available
+10092,62,21,17,1
+10095,77,6,17,Not Available
+10097,82,2,16,5
+10099,69,18,13,2
+10100,65,15,20,2
+10101,70,13,17,2
+10102,Not Available,Not Available,Not Available,Not Available
+10103,67,12,21,2
+10104,60,16,24,2
+10108,80,6,14,4
+10110,84,6,10,Not Available
+10112,81,5,14,5
+10113,66,12,22,2
+10114,58,17,25,1
+10118,67,14,19,2
+10120,75,2,23,4
+10125,78,1,21,5
+10126,80,6,14,4
+10128,78,4,18,Not Available
+10129,86,4,10,5
+10130,80,3,17,5
+10131,59,18,23,1
+10138,Not Available,Not Available,Not Available,Not Available
+10139,60,17,23,1
+10144,59,19,22,1
+10148,71,8,21,3
+10149,71,10,19,3
+10150,62,16,22,Not Available
+10157,71,15,14,Not Available
+10158,78,4,18,4
+10164,70,12,18,3
+10168,76,8,16,4
+10169,71,12,17,3
+10173,75,6,19,4
+10174,77,10,13,Not Available
+10175,72,9,19,Not Available
+11300,90,3,7,Not Available
+11302,94,1,5,Not Available
+11304,87,3,10,Not Available
+11305,Not Available,Not Available,Not Available,Not Available
+11306,80,2,18,Not Available
+13300,Not Available,Not Available,Not Available,Not Available
+13301,Not Available,Not Available,Not Available,Not Available
+20001,67,8,25,3
+20006,76,6,18,4
+20008,75,7,18,4
+20012,75,7,18,4
+20017,63,14,23,2
+20018,66,13,21,2
+20024,70,8,22,3
+20026,69,9,22,3
+21301,Not Available,Not Available,Not Available,Not Available
+21302,Not Available,Not Available,Not Available,Not Available
+21304,Not Available,Not Available,Not Available,Not Available
+21305,Not Available,Not Available,Not Available,Not Available
+21306,83,6,11,Not Available
+21307,Not Available,Not Available,Not Available,Not Available
+21308,Not Available,Not Available,Not Available,Not Available
+21309,Not Available,Not Available,Not Available,Not Available
+21310,Not Available,Not Available,Not Available,Not Available
+21311,79,6,15,Not Available
+21312,Not Available,Not Available,Not Available,Not Available
+21313,80,6,14,Not Available
+21314,Not Available,Not Available,Not Available,Not Available
+30002,64,15,21,2
+30006,59,17,24,1
+30007,75,7,18,4
+30010,61,15,24,2
+30011,59,18,23,1
+30012,67,10,23,3
+30013,74,7,19,4
+30014,72,8,20,3
+30016,67,14,19,2
+30022,50,23,27,1
+30023,64,13,23,2
+30024,66,12,22,2
+30030,65,15,20,2
+30036,71,10,19,3
+30037,66,17,17,2
+30038,66,13,21,2
+30043,75,9,16,3
+30055,74,7,19,3
+30061,55,20,25,1
+30062,76,8,16,4
+30064,65,13,22,2
+30065,56,21,23,1
+30069,64,15,21,2
+30071,74,8,18,3
+30073,67,13,20,2
+30074,Not Available,Not Available,Not Available,Not Available
+30078,70,11,19,3
+30083,62,19,19,1
+30084,59,17,24,Not Available
+30085,57,19,24,1
+30087,63,13,24,2
+30088,65,12,23,2
+30089,64,14,22,2
+30092,66,13,21,2
+30093,62,15,23,2
+30094,60,18,22,1
+30101,60,16,24,2
+30103,79,7,14,4
+30105,66,11,23,2
+30107,84,6,10,5
+30108,80,10,10,4
+30110,51,25,24,1
+30111,54,23,23,1
+30112,82,3,15,5
+30113,81,9,10,4
+30114,61,18,21,1
+30115,68,12,20,3
+30117,83,5,12,5
+30119,69,9,22,3
+30121,60,16,24,2
+30122,65,12,23,2
+30123,71,12,17,3
+30130,75,7,18,4
+30131,79,6,15,4
+30134,67,10,23,3
+30136,91,0,9,Not Available
+30138,89,1,10,Not Available
+30139,73,8,19,3
+30146,79,4,17,4
+30147,66,13,21,2
+30148,62,15,23,2
+30152,Not Available,Not Available,Not Available,Not Available
+30153,Not Available,Not Available,Not Available,Not Available
+30154,Not Available,Not Available,Not Available,Not Available
+31300,58,10,32,Not Available
+31301,80,12,8,Not Available
+31302,Not Available,Not Available,Not Available,Not Available
+31304,69,10,21,Not Available
+31305,Not Available,Not Available,Not Available,Not Available
+31307,Not Available,Not Available,Not Available,Not Available
+31308,Not Available,Not Available,Not Available,Not Available
+31309,Not Available,Not Available,Not Available,Not Available
+31311,75,8,17,3
+31312,84,6,10,Not Available
+31313,90,4,6,Not Available
+31314,74,8,18,3
+31315,83,10,7,Not Available
+31317,79,6,15,4
+31318,73,9,18,3
+31319,78,7,15,4
+31320,Not Available,Not Available,Not Available,Not Available
+33302,Not Available,Not Available,Not Available,Not Available
+40001,73,6,21,3
+40002,72,11,17,3
+40004,69,10,21,3
+40007,52,24,24,1
+40010,77,4,19,4
+40011,75,9,16,3
+40014,67,13,20,2
+40015,60,15,25,Not Available
+40016,70,11,19,3
+40017,83,3,14,5
+40018,Not Available,Not Available,Not Available,Not Available
+40019,69,20,11,2
+40020,60,15,25,2
+40022,76,9,15,3
+40026,67,13,20,2
+40027,56,18,26,1
+40029,68,13,19,2
+40036,46,30,24,1
+40039,64,15,21,2
+40041,64,15,21,2
+40050,68,10,22,3
+40051,73,6,21,3
+40055,53,22,25,1
+40062,63,15,22,2
+40067,85,0,15,5
+40069,58,25,17,1
+40071,66,17,17,2
+40072,70,12,18,Not Available
+40076,93,3,4,Not Available
+40078,60,12,28,2
+40084,65,12,23,2
+40088,Not Available,Not Available,Not Available,Not Available
+40114,51,25,24,1
+40118,70,11,19,3
+40119,71,9,20,3
+40132,Not Available,Not Available,Not Available,Not Available
+40134,78,7,15,4
+40137,62,18,20,1
+40147,84,5,11,5
+40153,83,4,13,Not Available
+40154,71,9,20,3
+40156,85,10,5,Not Available
+40161,83,5,12,5
+40164,Not Available,Not Available,Not Available,Not Available
+41300,82,3,15,Not Available
+41302,65,19,16,Not Available
+41303,56,12,32,Not Available
+41305,78,5,17,Not Available
+41306,89,0,11,Not Available
+41307,86,1,13,Not Available
+41308,Not Available,Not Available,Not Available,Not Available
+41309,Not Available,Not Available,Not Available,Not Available
+41310,73,11,16,Not Available
+41311,91,2,7,5
+41312,71,15,14,Not Available
+41313,76,6,18,Not Available
+41314,Not Available,Not Available,Not Available,Not Available
+41316,Not Available,Not Available,Not Available,Not Available
+41317,Not Available,Not Available,Not Available,Not Available
+41318,79,6,15,Not Available
+41320,Not Available,Not Available,Not Available,Not Available
+41321,78,11,11,Not Available
+41322,91,0,9,Not Available
+41323,81,7,12,Not Available
+41324,80,9,11,Not Available
+41326,72,11,17,Not Available
+41327,78,9,13,Not Available
+41328,85,6,9,Not Available
+41329,70,13,17,Not Available
+41330,74,8,18,4
+41331,67,10,23,Not Available
+41332,70,14,16,2
+43300,Not Available,Not Available,Not Available,Not Available
+43301,Not Available,Not Available,Not Available,Not Available
+50002,74,9,17,3
+50006,69,8,23,3
+50007,76,7,17,4
+50008,75,7,18,3
+50009,72,8,20,3
+50013,77,7,16,4
+50014,82,5,13,5
+50017,76,10,14,3
+50022,64,11,25,2
+50024,71,13,16,3
+50025,67,12,21,2
+50026,74,8,18,3
+50028,68,9,23,3
+50030,54,20,26,1
+50036,74,7,19,3
+50038,71,9,20,3
+50039,63,16,21,2
+50040,69,10,21,3
+50042,81,5,14,5
+50043,71,9,20,3
+50045,74,8,18,3
+50047,76,7,17,4
+50054,84,4,12,5
+50055,70,8,22,3
+50056,71,12,17,3
+50057,67,14,19,2
+50058,69,11,20,3
+50060,66,12,22,2
+50063,62,18,20,2
+50067,73,6,21,Not Available
+50069,71,7,22,3
+50070,74,8,18,3
+50071,68,10,22,3
+50072,66,13,21,2
+50073,69,9,22,3
+50075,67,10,23,3
+50076,61,12,27,2
+50077,67,11,22,3
+50078,79,6,15,4
+50082,66,12,22,2
+50084,66,14,20,2
+50089,71,10,19,3
+50090,72,5,23,3
+50091,67,12,21,2
+50093,69,12,19,3
+50099,68,13,19,2
+50100,71,9,20,3
+50101,64,12,24,2
+50102,77,7,16,4
+50103,64,13,23,2
+50104,67,12,21,2
+50107,74,7,19,4
+50108,74,6,20,4
+50110,77,4,19,4
+50112,71,8,21,3
+50113,76,5,19,4
+50115,62,16,22,2
+50116,71,9,20,3
+50118,72,8,20,3
+50121,80,5,15,4
+50122,73,10,17,3
+50124,73,8,19,3
+50125,74,9,17,3
+50126,66,11,23,2
+50127,73,8,19,3
+50128,64,15,21,2
+50129,71,8,21,3
+50131,74,7,19,4
+50132,75,8,17,3
+50133,66,12,22,2
+50135,61,19,20,1
+50136,78,6,16,4
+50137,71,9,20,3
+50138,68,11,21,3
+50139,69,11,20,3
+50140,71,11,18,3
+50145,76,7,17,4
+50149,67,13,20,2
+50150,67,7,26,3
+50152,68,10,22,3
+50158,65,13,22,2
+50159,67,11,22,3
+50167,63,14,23,2
+50168,76,6,18,4
+50169,78,7,15,4
+50174,69,7,24,3
+50179,70,11,19,3
+50180,65,11,24,2
+50191,77,7,16,4
+50192,71,12,17,3
+50194,66,17,17,2
+50195,77,5,18,4
+50197,76,7,17,4
+50204,71,10,19,3
+50211,62,13,25,2
+50222,72,9,19,3
+50224,77,6,17,4
+50226,68,9,23,3
+50228,70,8,22,3
+50230,71,10,19,3
+50231,72,8,20,3
+50232,67,8,25,3
+50234,77,8,15,4
+50235,71,11,18,3
+50236,78,5,17,4
+50238,67,11,22,2
+50239,75,6,19,4
+50242,73,7,20,3
+50243,63,14,23,2
+50245,62,18,20,1
+50248,70,10,20,3
+50254,78,6,16,4
+50257,69,8,23,Not Available
+50261,63,14,23,2
+50262,70,9,21,3
+50272,76,7,17,4
+50276,77,5,18,4
+50278,73,9,18,3
+50279,61,19,20,1
+50280,69,10,21,3
+50281,77,7,16,4
+50283,66,9,25,3
+50289,59,17,24,1
+50290,75,11,14,3
+50291,68,12,20,3
+50292,62,17,21,2
+50295,69,13,18,2
+50298,75,7,18,4
+50300,67,15,18,2
+50301,73,8,19,3
+50305,60,13,27,2
+50308,72,8,20,3
+50309,70,11,19,3
+50313,74,6,20,4
+50315,64,13,23,2
+50320,65,13,22,2
+50324,76,8,16,4
+50327,73,9,18,3
+50329,62,15,23,2
+50334,80,4,16,5
+50335,67,11,22,2
+50336,75,9,16,3
+50342,79,6,15,4
+50348,73,6,21,4
+50350,Not Available,Not Available,Not Available,Not Available
+50351,76,8,16,3
+50352,79,4,17,4
+50353,68,10,22,3
+50357,90,5,5,5
+50360,70,9,21,3
+50367,65,13,22,2
+50373,66,10,24,3
+50376,54,17,29,1
+50378,67,17,16,2
+50380,66,13,21,2
+50382,64,12,24,2
+50390,56,23,21,1
+50393,77,6,17,4
+50394,80,6,14,4
+50396,80,5,15,4
+50407,79,10,11,4
+50411,71,10,19,3
+50414,69,10,21,3
+50417,76,7,17,4
+50424,73,9,18,3
+50425,63,12,25,2
+50426,71,9,20,3
+50438,73,7,20,3
+50441,76,6,18,4
+50444,73,9,18,3
+50454,73,7,20,3
+50455,62,12,26,2
+50457,75,8,17,4
+50464,59,17,24,1
+50468,55,23,22,1
+50471,69,12,19,3
+50481,71,11,18,3
+50485,72,9,19,3
+50488,70,8,22,3
+50492,72,8,20,3
+50496,71,8,21,3
+50498,77,9,14,4
+50503,72,8,20,3
+50506,61,14,25,2
+50510,69,8,23,3
+50512,68,9,23,3
+50515,71,9,20,3
+50516,68,11,21,3
+50517,66,15,19,2
+50523,64,13,23,2
+50526,67,12,21,2
+50528,73,5,22,4
+50534,67,12,21,2
+50537,72,10,18,3
+50541,75,9,16,3
+50543,Not Available,Not Available,Not Available,Not Available
+50546,Not Available,Not Available,Not Available,Not Available
+50549,74,9,17,3
+50551,64,11,25,2
+50557,72,9,19,3
+50561,64,14,22,2
+50567,76,8,16,4
+50570,65,11,24,2
+50573,68,12,20,2
+50580,79,5,16,4
+50581,71,10,19,3
+50586,74,9,17,3
+50588,75,8,17,3
+50589,70,9,21,3
+50590,66,11,23,2
+50597,63,13,24,2
+50599,58,18,24,1
+50603,74,8,18,3
+50604,69,9,22,3
+50608,84,2,14,5
+50609,71,10,19,3
+50624,71,12,17,3
+50625,64,12,24,2
+50633,69,9,22,3
+50636,62,15,23,2
+50641,74,9,17,3
+50663,56,18,26,1
+50668,Not Available,Not Available,Not Available,Not Available
+50674,63,13,24,2
+50677,67,10,23,3
+50678,69,8,23,3
+50684,52,25,23,1
+50686,70,8,22,3
+50689,59,13,28,2
+50690,68,9,23,3
+50696,72,10,18,3
+50697,Not Available,Not Available,Not Available,Not Available
+50701,63,14,23,2
+50704,72,10,18,3
+50708,84,6,10,5
+50709,75,8,17,3
+50710,69,11,20,3
+50714,83,6,11,5
+50717,88,1,11,5
+50723,71,9,20,3
+50724,75,10,15,3
+50726,87,2,11,Not Available
+50735,65,15,20,2
+50736,73,13,14,3
+50737,72,9,19,3
+50738,77,6,17,4
+50739,72,12,16,3
+50740,71,8,21,3
+50744,71,6,23,3
+50745,72,10,18,3
+50746,70,12,18,3
+50747,74,9,17,3
+50748,67,11,22,3
+50755,71,12,17,3
+50757,69,13,18,2
+50758,71,12,17,3
+50760,67,10,23,3
+50761,64,15,21,2
+50763,73,7,20,Not Available
+50764,68,10,22,3
+50765,69,8,23,3
+50766,81,8,11,Not Available
+50767,74,7,19,3
+50769,84,5,11,5
+50770,68,13,19,2
+50771,55,23,22,1
+50772,60,15,25,2
+50775,69,10,21,3
+50776,70,11,19,3
+50777,70,10,20,3
+50778,67,13,20,2
+50779,69,10,21,3
+50780,64,13,23,2
+50782,84,4,12,5
+50783,59,14,27,Not Available
+50784,76,8,16,4
+50785,77,7,16,3
+50854,Not Available,Not Available,Not Available,Not Available
+50855,Not Available,Not Available,Not Available,Not Available
+51300,Not Available,Not Available,Not Available,Not Available
+51301,81,4,15,5
+51302,Not Available,Not Available,Not Available,Not Available
+51303,82,9,9,Not Available
+51304,Not Available,Not Available,Not Available,Not Available
+51305,82,10,8,Not Available
+51306,61,14,25,Not Available
+51307,Not Available,Not Available,Not Available,Not Available
+51308,Not Available,Not Available,Not Available,Not Available
+51309,Not Available,Not Available,Not Available,Not Available
+51310,80,3,17,5
+51311,71,7,22,Not Available
+51312,78,10,12,Not Available
+51314,79,2,19,Not Available
+51315,Not Available,Not Available,Not Available,Not Available
+51316,77,8,15,4
+51317,86,3,11,5
+51318,74,8,18,3
+51319,70,14,16,2
+51320,76,8,16,4
+51321,85,3,12,Not Available
+51323,87,3,10,Not Available
+51324,79,6,15,Not Available
+51325,82,3,15,5
+51326,70,3,27,Not Available
+51327,Not Available,Not Available,Not Available,Not Available
+51328,81,4,15,5
+51329,82,3,15,5
+51330,81,7,12,Not Available
+51331,93,2,5,Not Available
+51332,74,6,20,4
+51333,Not Available,Not Available,Not Available,Not Available
+51334,91,0,9,Not Available
+51335,Not Available,Not Available,Not Available,Not Available
+51336,81,0,19,Not Available
+51337,Not Available,Not Available,Not Available,Not Available
+51338,Not Available,Not Available,Not Available,Not Available
+51339,Not Available,Not Available,Not Available,Not Available
+53300,Not Available,Not Available,Not Available,Not Available
+53301,Not Available,Not Available,Not Available,Not Available
+53302,Not Available,Not Available,Not Available,Not Available
+53303,Not Available,Not Available,Not Available,Not Available
+53304,Not Available,Not Available,Not Available,Not Available
+53305,Not Available,Not Available,Not Available,Not Available
+53306,Not Available,Not Available,Not Available,Not Available
+53308,Not Available,Not Available,Not Available,Not Available
+53309,Not Available,Not Available,Not Available,Not Available
+53311,Not Available,Not Available,Not Available,Not Available
+60001,71,8,21,3
+60003,71,9,20,3
+60004,80,8,12,4
+60006,89,2,9,5
+60008,77,7,16,4
+60009,73,9,18,3
+60010,69,9,22,3
+60011,66,12,22,2
+60012,74,8,18,3
+60013,71,5,24,3
+60014,70,9,21,3
+60015,73,9,18,3
+60020,65,13,22,2
+60022,67,11,22,2
+60023,76,6,18,4
+60024,63,11,26,2
+60027,79,7,14,4
+60028,79,6,15,4
+60030,78,3,19,4
+60031,67,12,21,2
+60032,74,9,17,3
+60034,66,11,23,2
+60044,88,3,9,5
+60049,72,9,19,3
+60054,72,10,18,3
+60064,69,10,21,3
+60065,66,13,21,2
+60071,76,5,19,4
+60075,80,7,13,4
+60076,81,6,13,4
+60096,83,4,13,5
+60100,71,9,20,3
+60103,70,12,18,3
+60104,74,9,17,3
+60107,Not Available,Not Available,Not Available,Not Available
+60112,63,12,25,2
+60113,74,6,20,4
+60114,71,9,20,3
+60116,73,8,19,3
+60117,89,2,9,5
+60118,78,5,17,4
+60119,68,10,22,3
+60124,84,5,11,5
+60125,74,7,19,3
+60126,73,6,21,3
+60128,71,9,20,3
+60129,77,10,13,Not Available
+60130,78,4,18,Not Available
+60131,71,9,20,3
+60132,69,11,20,3
+60133,Not Available,Not Available,Not Available,Not Available
+61300,Not Available,Not Available,Not Available,Not Available
+61301,82,2,16,5
+61302,87,3,10,Not Available
+61303,80,7,13,Not Available
+61304,Not Available,Not Available,Not Available,Not Available
+61305,Not Available,Not Available,Not Available,Not Available
+61306,68,4,28,Not Available
+61307,Not Available,Not Available,Not Available,Not Available
+61308,88,4,8,Not Available
+61309,79,3,18,Not Available
+61310,83,0,17,Not Available
+61311,Not Available,Not Available,Not Available,Not Available
+61312,68,14,18,Not Available
+61313,79,5,16,Not Available
+61314,Not Available,Not Available,Not Available,Not Available
+61315,Not Available,Not Available,Not Available,Not Available
+61316,68,12,20,Not Available
+61317,80,2,18,5
+61318,Not Available,Not Available,Not Available,Not Available
+61319,Not Available,Not Available,Not Available,Not Available
+61320,74,4,22,Not Available
+61321,84,8,8,Not Available
+61322,71,5,24,4
+61323,Not Available,Not Available,Not Available,Not Available
+61324,89,4,7,5
+61325,84,4,12,5
+61326,69,10,21,Not Available
+61327,85,5,10,5
+61328,Not Available,Not Available,Not Available,Not Available
+61336,87,2,11,Not Available
+61343,Not Available,Not Available,Not Available,Not Available
+61344,74,8,18,3
+63301,Not Available,Not Available,Not Available,Not Available
+63303,Not Available,Not Available,Not Available,Not Available
+70002,61,17,22,2
+70003,78,8,14,4
+70004,77,6,17,4
+70005,73,8,19,3
+70006,72,9,19,3
+70007,67,8,25,3
+70008,79,7,14,4
+70010,70,8,22,3
+70011,66,12,22,2
+70012,85,9,6,Not Available
+70016,66,14,20,2
+70017,74,9,17,3
+70018,73,8,19,3
+70020,71,11,18,3
+70021,74,7,19,4
+70022,59,16,25,1
+70024,71,9,20,3
+70025,67,12,21,2
+70027,69,10,21,3
+70028,73,9,18,3
+70029,71,7,22,3
+70031,78,7,15,4
+70033,71,8,21,3
+70034,73,8,19,3
+70035,65,9,26,3
+70036,78,5,17,4
+70038,Not Available,Not Available,Not Available,Not Available
+70040,Not Available,Not Available,Not Available,Not Available
+73300,Not Available,Not Available,Not Available,Not Available
+80001,54,21,25,1
+80003,52,25,23,1
+80004,62,15,23,2
+80006,72,8,20,3
+80007,61,14,25,2
+80009,73,11,16,3
+83300,Not Available,Not Available,Not Available,Not Available
+90001,59,15,26,2
+90003,59,21,20,1
+90004,66,12,22,2
+90005,72,8,20,3
+90008,54,28,18,Not Available
+90011,61,14,25,2
+93300,Not Available,Not Available,Not Available,Not Available
+100001,66,15,19,2
+100002,59,16,25,2
+100006,67,13,20,2
+100007,75,7,18,4
+100008,75,9,16,3
+100012,68,11,21,3
+100014,71,10,19,3
+100017,62,16,22,2
+100018,64,13,23,2
+100019,66,13,21,2
+100022,76,9,15,3
+100023,70,10,20,3
+100025,60,18,22,1
+100026,68,11,21,3
+100028,65,12,23,2
+100029,64,13,23,2
+100030,68,13,19,2
+100032,65,15,20,2
+100034,69,12,19,3
+100035,62,15,23,2
+100038,70,11,19,3
+100039,64,14,22,2
+100040,68,12,20,3
+100043,81,5,14,5
+100044,66,13,21,2
+100045,71,9,20,3
+100046,66,12,22,2
+100047,61,16,23,2
+100049,66,12,22,2
+100050,84,7,9,5
+100051,72,10,18,3
+100052,72,8,20,3
+100053,82,7,11,4
+100054,79,5,16,4
+100055,72,9,19,3
+100057,73,8,19,3
+100062,59,18,23,1
+100063,72,8,20,3
+100067,68,11,21,3
+100068,70,12,18,3
+100069,68,13,19,2
+100071,66,14,20,2
+100072,71,9,20,3
+100073,65,14,21,2
+100075,78,6,16,4
+100077,49,29,22,1
+100080,57,20,23,1
+100084,67,11,22,2
+100086,71,10,19,3
+100087,67,11,22,2
+100088,75,9,16,3
+100090,57,21,22,1
+100092,74,11,15,3
+100093,64,16,20,2
+100099,76,7,17,4
+100105,61,15,24,2
+100107,74,11,15,3
+100109,68,13,19,2
+100110,69,12,19,2
+100113,66,12,22,2
+100117,73,7,20,3
+100118,74,8,18,3
+100121,76,6,18,4
+100122,72,10,18,3
+100124,74,8,18,3
+100125,79,7,14,4
+100126,70,10,20,3
+100127,71,9,20,3
+100128,60,17,23,1
+100130,78,10,12,Not Available
+100131,71,12,17,3
+100132,74,8,18,3
+100134,81,10,9,Not Available
+100135,58,16,26,1
+100137,74,9,17,3
+100140,78,6,16,4
+100142,77,4,19,4
+100150,65,12,23,2
+100151,80,5,15,5
+100154,71,13,16,3
+100156,72,10,18,3
+100157,64,12,24,2
+100161,67,13,20,2
+100166,75,7,18,4
+100167,61,20,19,1
+100168,60,14,26,2
+100173,63,16,21,2
+100175,75,5,20,4
+100176,51,24,25,1
+100177,70,9,21,3
+100179,67,15,18,2
+100180,66,14,20,2
+100181,74,8,18,Not Available
+100183,79,8,13,4
+100187,72,12,16,3
+100189,58,17,25,1
+100191,72,10,18,3
+100200,59,13,28,2
+100204,66,14,20,2
+100206,73,11,16,3
+100209,70,11,19,3
+100211,68,10,22,3
+100212,65,16,19,2
+100213,64,12,24,2
+100217,67,12,21,2
+100220,73,9,18,3
+100223,77,8,15,4
+100224,66,12,22,2
+100226,69,10,21,3
+100228,67,12,21,2
+100230,78,7,15,4
+100231,70,12,18,3
+100232,73,9,18,3
+100236,59,18,23,1
+100238,55,22,23,1
+100242,66,12,22,2
+100243,68,10,22,3
+100244,68,12,20,2
+100246,65,16,19,2
+100248,70,11,19,3
+100249,59,17,24,1
+100252,80,5,15,5
+100253,68,10,22,3
+100254,67,12,21,2
+100256,68,11,21,3
+100258,51,24,25,1
+100259,71,12,17,3
+100260,75,8,17,4
+100264,65,10,25,2
+100265,71,9,20,3
+100266,65,14,21,2
+100267,71,8,21,3
+100268,53,22,25,1
+100269,74,10,16,3
+100275,63,14,23,2
+100276,68,11,21,3
+100277,Not Available,Not Available,Not Available,Not Available
+100281,73,9,18,3
+100284,81,6,13,5
+100285,77,7,16,4
+100286,63,14,23,2
+100287,57,19,24,1
+100288,62,16,22,2
+100289,70,11,19,3
+100290,65,12,23,2
+100291,73,11,16,3
+100292,73,9,18,3
+100296,73,9,18,3
+100298,Not Available,Not Available,Not Available,Not Available
+100299,69,11,20,3
+100302,66,13,21,2
+100307,67,14,19,2
+100313,78,5,17,Not Available
+100314,73,9,18,3
+100315,75,7,18,4
+100316,67,13,20,2
+100319,77,7,16,4
+100320,74,11,15,3
+100321,76,8,16,4
+100329,78,5,17,4
+100330,73,10,17,3
+100350,77,8,15,4
+100359,76,9,15,3
+100360,83,4,13,5
+100361,75,9,16,3
+100362,Not Available,Not Available,Not Available,Not Available
+100363,Not Available,Not Available,Not Available,Not Available
+101300,Not Available,Not Available,Not Available,Not Available
+101303,93,3,4,Not Available
+101304,Not Available,Not Available,Not Available,Not Available
+101305,Not Available,Not Available,Not Available,Not Available
+101307,Not Available,Not Available,Not Available,Not Available
+101308,55,18,27,Not Available
+101309,56,3,41,Not Available
+101311,79,2,19,Not Available
+101312,Not Available,Not Available,Not Available,Not Available
+101313,75,14,11,Not Available
+101314,Not Available,Not Available,Not Available,Not Available
+101315,Not Available,Not Available,Not Available,Not Available
+103300,Not Available,Not Available,Not Available,Not Available
+103301,Not Available,Not Available,Not Available,Not Available
+103304,Not Available,Not Available,Not Available,Not Available
+110001,65,16,19,2
+110002,79,5,16,4
+110003,74,6,20,4
+110005,79,6,15,4
+110006,60,18,22,1
+110007,62,14,24,2
+110008,85,4,11,5
+110010,74,10,16,3
+110011,75,8,17,3
+110015,74,7,19,4
+110016,76,8,16,4
+110018,63,13,24,2
+110023,72,10,18,3
+110024,61,16,23,2
+110025,64,14,22,2
+110027,77,6,17,4
+110028,63,16,21,2
+110029,57,19,24,1
+110030,67,11,22,2
+110031,60,20,20,1
+110032,74,3,23,4
+110034,57,17,26,1
+110035,65,13,22,2
+110036,55,22,23,1
+110038,66,11,23,2
+110041,68,7,25,3
+110042,72,10,18,3
+110043,66,12,22,2
+110044,68,11,21,2
+110045,74,9,17,4
+110046,65,11,24,2
+110050,73,11,16,Not Available
+110051,75,6,19,4
+110054,61,15,24,2
+110064,69,14,17,2
+110069,63,14,23,2
+110071,Not Available,Not Available,Not Available,Not Available
+110073,82,3,15,5
+110074,66,14,20,2
+110075,74,8,18,3
+110076,63,16,21,2
+110078,60,16,24,2
+110079,61,15,24,2
+110082,59,15,26,2
+110083,63,13,24,2
+110086,68,14,18,Not Available
+110087,76,7,17,4
+110089,73,11,16,3
+110091,71,10,19,3
+110092,69,6,25,3
+110095,63,19,18,1
+110100,71,12,17,Not Available
+110101,88,1,11,Not Available
+110104,75,9,16,4
+110105,75,7,18,4
+110107,58,16,26,1
+110109,82,7,11,4
+110111,74,5,21,4
+110113,75,13,12,Not Available
+110121,69,11,20,Not Available
+110122,64,15,21,2
+110124,76,9,15,4
+110125,70,13,17,2
+110128,76,8,16,3
+110129,66,15,19,2
+110132,59,19,22,Not Available
+110135,64,15,21,Not Available
+110142,83,8,9,4
+110143,61,15,24,2
+110146,74,6,20,4
+110150,60,18,22,1
+110153,Not Available,Not Available,Not Available,Not Available
+110161,78,6,16,4
+110164,67,10,23,3
+110165,59,22,19,1
+110168,68,12,20,2
+110177,66,14,20,2
+110184,71,8,21,3
+110190,Not Available,Not Available,Not Available,Not Available
+110191,60,16,24,2
+110192,63,17,20,2
+110194,68,11,21,Not Available
+110198,52,23,25,1
+110200,73,7,20,3
+110201,72,10,18,3
+110209,Not Available,Not Available,Not Available,Not Available
+110215,61,17,22,2
+110225,71,8,21,3
+110226,78,8,14,4
+110229,57,16,27,1
+110230,66,11,23,2
+110233,81,6,13,5
+110234,Not Available,Not Available,Not Available,Not Available
+110236,86,1,13,Not Available
+110237,72,13,15,3
+110252,83,5,12,5
+111302,Not Available,Not Available,Not Available,Not Available
+111303,Not Available,Not Available,Not Available,Not Available
+111304,87,5,8,5
+111305,Not Available,Not Available,Not Available,Not Available
+111306,57,18,25,Not Available
+111308,80,5,15,Not Available
+111310,77,6,17,4
+111311,Not Available,Not Available,Not Available,Not Available
+111312,Not Available,Not Available,Not Available,Not Available
+111313,Not Available,Not Available,Not Available,Not Available
+111314,71,11,18,Not Available
+111316,Not Available,Not Available,Not Available,Not Available
+111318,81,9,10,Not Available
+111319,85,3,12,Not Available
+111320,86,1,13,Not Available
+111323,77,7,16,4
+111324,75,1,24,Not Available
+111325,97,0,3,Not Available
+111326,78,6,16,Not Available
+111327,69,15,16,2
+111328,Not Available,Not Available,Not Available,Not Available
+111329,80,5,15,4
+111330,83,8,9,Not Available
+111331,96,1,3,Not Available
+111332,Not Available,Not Available,Not Available,Not Available
+111333,80,2,18,Not Available
+111334,80,3,17,Not Available
+111335,58,20,22,Not Available
+111336,Not Available,Not Available,Not Available,Not Available
+111337,78,4,18,5
+113300,Not Available,Not Available,Not Available,Not Available
+113301,Not Available,Not Available,Not Available,Not Available
+120001,75,7,18,4
+120002,60,16,24,2
+120004,72,8,20,3
+120005,72,7,21,3
+120006,82,4,14,5
+120007,77,8,15,4
+120011,73,8,19,3
+120014,72,6,22,3
+120019,75,5,20,4
+120022,66,10,24,3
+120026,72,6,22,3
+120028,63,11,26,2
+121300,69,11,20,Not Available
+121301,Not Available,Not Available,Not Available,Not Available
+121302,Not Available,Not Available,Not Available,Not Available
+121303,Not Available,Not Available,Not Available,Not Available
+121304,83,4,13,Not Available
+121305,Not Available,Not Available,Not Available,Not Available
+121306,Not Available,Not Available,Not Available,Not Available
+121307,Not Available,Not Available,Not Available,Not Available
+121308,Not Available,Not Available,Not Available,Not Available
+123300,Not Available,Not Available,Not Available,Not Available
+123301,Not Available,Not Available,Not Available,Not Available
+130002,81,5,14,5
+130003,75,9,16,3
+130006,72,10,18,3
+130007,67,13,20,2
+130013,78,8,14,4
+130014,81,5,14,4
+130018,71,9,20,3
+130025,64,11,25,2
+130028,68,10,22,3
+130049,61,16,23,1
+130063,86,7,7,5
+130065,72,9,19,3
+130066,77,8,15,4
+130071,75,6,19,4
+130073,85,4,11,Not Available
+130074,68,11,21,3
+131301,66,16,18,Not Available
+131302,88,4,8,Not Available
+131303,Not Available,Not Available,Not Available,Not Available
+131304,Not Available,Not Available,Not Available,Not Available
+131305,69,8,23,Not Available
+131307,91,3,6,Not Available
+131308,Not Available,Not Available,Not Available,Not Available
+131309,67,18,15,Not Available
+131310,91,2,7,Not Available
+131311,85,4,11,Not Available
+131312,70,11,19,Not Available
+131313,Not Available,Not Available,Not Available,Not Available
+131314,92,3,5,Not Available
+131315,86,1,13,Not Available
+131316,83,4,13,Not Available
+131317,Not Available,Not Available,Not Available,Not Available
+131318,89,3,8,Not Available
+131319,85,5,10,Not Available
+131320,72,6,22,Not Available
+131321,77,0,23,Not Available
+131322,85,6,9,5
+131323,75,8,17,3
+131324,Not Available,Not Available,Not Available,Not Available
+131325,76,12,12,3
+131326,73,6,21,4
+131327,72,5,23,4
+131328,64,13,23,2
+140001,65,11,24,2
+140002,67,13,20,2
+140007,60,18,22,1
+140008,66,10,24,3
+140010,72,9,19,3
+140011,76,7,17,4
+140012,81,4,15,5
+140013,58,16,26,1
+140015,78,6,16,4
+140018,50,25,25,1
+140029,69,9,22,3
+140030,78,5,17,4
+140032,75,5,20,4
+140034,72,7,21,3
+140043,77,7,16,4
+140046,72,9,19,3
+140048,66,13,21,2
+140049,67,14,19,2
+140052,75,8,17,3
+140053,57,19,24,1
+140054,63,11,26,2
+140059,76,10,14,3
+140062,60,18,22,1
+140063,62,14,24,2
+140064,67,12,21,2
+140065,69,10,21,3
+140067,54,20,26,1
+140068,62,18,20,1
+140077,74,2,24,Not Available
+140080,71,10,19,3
+140082,69,13,18,2
+140083,65,13,22,Not Available
+140084,69,13,18,2
+140088,62,14,24,2
+140089,71,7,22,3
+140091,70,7,23,3
+140093,67,12,21,2
+140095,68,13,19,2
+140100,86,1,13,Not Available
+140101,74,8,18,3
+140103,69,15,16,Not Available
+140110,69,12,19,3
+140113,74,8,18,3
+140114,68,12,20,2
+140115,60,17,23,1
+140116,76,5,19,4
+140117,67,12,21,2
+140119,70,10,20,3
+140120,67,14,19,2
+140122,77,6,17,4
+140124,57,18,25,1
+140125,54,23,23,1
+140127,74,8,18,3
+140130,71,6,23,3
+140133,58,22,20,1
+140135,73,8,19,3
+140137,79,5,16,Not Available
+140145,71,7,22,3
+140147,66,9,25,3
+140148,66,13,21,2
+140150,60,14,26,2
+140155,69,13,18,2
+140158,66,22,12,1
+140160,71,8,21,3
+140161,78,7,15,4
+140162,63,13,24,2
+140164,73,9,18,3
+140166,66,11,23,2
+140172,61,12,27,2
+140174,71,9,20,3
+140177,54,32,14,Not Available
+140179,71,11,18,3
+140180,66,13,21,2
+140181,76,17,7,Not Available
+140182,65,12,23,2
+140184,65,14,21,2
+140185,71,11,18,3
+140186,75,7,18,4
+140187,63,15,22,2
+140189,74,10,16,3
+140191,56,20,24,1
+140197,Not Available,Not Available,Not Available,Not Available
+140200,67,12,21,2
+140202,78,6,16,4
+140206,65,13,22,2
+140208,61,14,25,2
+140209,62,15,23,2
+140210,69,16,15,Not Available
+140211,76,6,18,4
+140213,70,7,23,3
+140217,71,12,17,3
+140223,69,11,20,3
+140224,70,10,20,3
+140228,70,9,21,3
+140231,58,19,23,1
+140233,55,21,24,1
+140239,74,6,20,4
+140242,73,7,20,3
+140251,55,25,20,1
+140252,62,14,24,2
+140258,73,7,20,3
+140275,72,9,19,3
+140276,57,18,25,1
+140280,61,16,23,2
+140281,64,12,24,2
+140286,70,8,22,3
+140288,70,10,20,3
+140289,75,6,19,4
+140290,74,7,19,3
+140291,74,8,18,3
+140292,70,9,21,3
+140294,67,17,16,2
+140300,64,9,27,Not Available
+140304,73,8,19,3
+140308,Not Available,Not Available,Not Available,Not Available
+141300,Not Available,Not Available,Not Available,Not Available
+141301,88,1,11,Not Available
+141302,95,3,2,5
+141303,86,5,9,Not Available
+141304,Not Available,Not Available,Not Available,Not Available
+141305,84,2,14,5
+141306,65,12,23,Not Available
+141307,91,4,5,Not Available
+141308,86,3,11,Not Available
+141309,89,2,9,Not Available
+141310,82,7,11,4
+141311,70,12,18,Not Available
+141312,77,6,17,Not Available
+141313,Not Available,Not Available,Not Available,Not Available
+141315,88,2,10,5
+141316,93,2,5,5
+141317,83,3,14,5
+141318,83,3,14,Not Available
+141319,83,5,12,5
+141320,77,9,14,3
+141321,Not Available,Not Available,Not Available,Not Available
+141322,77,2,21,5
+141323,93,2,5,Not Available
+141324,77,7,16,Not Available
+141325,87,3,10,Not Available
+141326,80,3,17,Not Available
+141327,85,1,14,5
+141328,77,2,21,Not Available
+141329,Not Available,Not Available,Not Available,Not Available
+141330,Not Available,Not Available,Not Available,Not Available
+141331,85,0,15,Not Available
+141332,92,1,7,Not Available
+141333,Not Available,Not Available,Not Available,Not Available
+141334,88,3,9,Not Available
+141335,83,6,11,Not Available
+141336,81,2,17,5
+141337,81,4,15,5
+141338,88,0,12,Not Available
+141339,92,2,6,Not Available
+141340,90,2,8,Not Available
+141341,83,3,14,Not Available
+141342,69,8,23,Not Available
+141343,88,1,11,5
+141344,86,10,4,Not Available
+141345,79,5,16,Not Available
+141346,86,4,10,Not Available
+141347,83,2,15,Not Available
+141348,83,3,14,5
+141349,89,4,7,Not Available
+141350,83,5,12,4
+141351,75,6,19,4
+141352,Not Available,Not Available,Not Available,Not Available
+141353,Not Available,Not Available,Not Available,Not Available
+141354,Not Available,Not Available,Not Available,Not Available
+143300,Not Available,Not Available,Not Available,Not Available
+143301,Not Available,Not Available,Not Available,Not Available
+143302,Not Available,Not Available,Not Available,Not Available
+150001,77,4,19,4
+150002,59,19,22,1
+150005,81,6,13,4
+150006,73,8,19,3
+150007,79,4,17,4
+150008,68,10,22,3
+150009,63,14,23,2
+150010,74,8,18,3
+150011,75,7,18,3
+150012,70,11,19,3
+150015,63,12,25,2
+150017,70,11,19,3
+150018,68,10,22,3
+150021,77,6,17,4
+150022,80,5,15,4
+150023,71,10,19,3
+150024,66,12,22,2
+150026,70,8,22,3
+150030,77,7,16,4
+150034,67,13,20,2
+150035,62,13,25,2
+150037,83,5,12,5
+150042,79,5,16,4
+150044,66,12,22,2
+150045,79,4,17,4
+150046,75,8,17,3
+150047,91,2,7,5
+150048,72,7,21,3
+150051,60,20,20,1
+150056,57,17,26,1
+150057,68,13,19,2
+150058,67,10,23,3
+150059,70,13,17,3
+150061,68,10,22,3
+150065,76,7,17,4
+150069,66,10,24,3
+150072,74,8,18,3
+150074,71,8,21,3
+150075,80,5,15,4
+150076,79,1,20,5
+150082,57,20,23,1
+150084,63,14,23,2
+150086,87,2,11,5
+150088,76,5,19,4
+150089,60,14,26,2
+150090,74,8,18,3
+150091,82,4,14,5
+150097,86,3,11,5
+150100,77,6,17,4
+150101,83,3,14,5
+150102,89,0,11,Not Available
+150104,66,12,22,2
+150109,76,5,19,4
+150112,67,8,25,3
+150113,66,12,22,2
+150115,70,8,22,3
+150125,66,12,22,2
+150126,65,13,22,2
+150128,72,7,21,3
+150133,73,6,21,3
+150146,79,4,17,4
+150149,84,4,12,5
+150150,71,10,19,3
+150153,71,9,20,3
+150157,71,8,21,3
+150158,67,10,23,3
+150160,84,6,10,5
+150161,56,19,25,1
+150162,66,11,23,2
+150165,77,4,19,4
+150166,82,5,13,5
+150167,76,5,19,4
+150168,67,11,22,2
+150169,59,17,24,1
+150172,81,5,14,Not Available
+150173,65,11,24,2
+150177,86,6,8,Not Available
+150179,Not Available,Not Available,Not Available,Not Available
+150181,60,13,27,2
+150183,77,5,18,4
+150191,Not Available,Not Available,Not Available,Not Available
+150193,79,8,13,4
+151300,85,3,12,5
+151301,Not Available,Not Available,Not Available,Not Available
+151303,Not Available,Not Available,Not Available,Not Available
+151304,85,3,12,Not Available
+151305,91,2,7,Not Available
+151306,Not Available,Not Available,Not Available,Not Available
+151307,Not Available,Not Available,Not Available,Not Available
+151308,Not Available,Not Available,Not Available,Not Available
+151309,Not Available,Not Available,Not Available,Not Available
+151310,78,8,14,4
+151311,Not Available,Not Available,Not Available,Not Available
+151312,Not Available,Not Available,Not Available,Not Available
+151313,70,3,27,Not Available
+151314,Not Available,Not Available,Not Available,Not Available
+151315,79,4,17,5
+151316,Not Available,Not Available,Not Available,Not Available
+151317,77,6,17,4
+151318,85,4,11,5
+151319,67,16,17,Not Available
+151320,Not Available,Not Available,Not Available,Not Available
+151322,90,1,9,5
+151323,92,1,7,5
+151324,81,11,8,Not Available
+151325,Not Available,Not Available,Not Available,Not Available
+151326,Not Available,Not Available,Not Available,Not Available
+151327,81,5,14,Not Available
+151328,Not Available,Not Available,Not Available,Not Available
+151329,76,7,17,4
+151330,74,7,19,3
+151331,69,8,23,3
+151332,77,6,17,4
+151333,70,12,18,Not Available
+151334,60,17,23,Not Available
+160001,80,5,15,4
+160005,Not Available,Not Available,Not Available,Not Available
+160013,66,14,20,2
+160016,70,7,23,3
+160028,71,9,20,3
+160029,58,18,24,1
+160030,73,6,21,3
+160032,65,13,22,2
+160033,63,14,23,2
+160040,81,6,13,4
+160045,75,5,20,4
+160047,77,5,18,4
+160057,70,9,21,3
+160058,65,11,24,2
+160064,73,8,19,3
+160067,67,11,22,2
+160069,64,12,24,2
+160079,62,13,25,2
+160080,70,9,21,3
+160082,67,12,21,2
+160083,64,12,24,2
+160089,46,27,27,1
+160101,73,9,18,3
+160104,62,16,22,2
+160110,67,12,21,2
+160112,77,6,17,4
+160117,64,13,23,2
+160124,75,6,19,4
+160146,57,14,29,2
+160147,73,7,20,3
+160153,60,16,24,2
+161300,Not Available,Not Available,Not Available,Not Available
+161301,85,5,10,5
+161302,80,8,12,4
+161303,81,2,17,Not Available
+161304,82,7,11,Not Available
+161305,Not Available,Not Available,Not Available,Not Available
+161306,82,2,16,5
+161307,94,0,6,Not Available
+161308,96,2,2,Not Available
+161309,82,7,11,Not Available
+161310,73,2,25,Not Available
+161311,81,6,13,Not Available
+161312,85,2,13,Not Available
+161313,Not Available,Not Available,Not Available,Not Available
+161314,64,5,31,Not Available
+161315,Not Available,Not Available,Not Available,Not Available
+161316,82,2,16,Not Available
+161317,83,3,14,5
+161318,92,0,8,Not Available
+161319,77,14,9,Not Available
+161320,Not Available,Not Available,Not Available,Not Available
+161321,Not Available,Not Available,Not Available,Not Available
+161322,Not Available,Not Available,Not Available,Not Available
+161323,87,2,11,Not Available
+161324,Not Available,Not Available,Not Available,Not Available
+161325,67,5,28,Not Available
+161326,90,4,6,Not Available
+161327,93,0,7,Not Available
+161328,77,11,12,Not Available
+161329,96,0,4,Not Available
+161330,Not Available,Not Available,Not Available,Not Available
+161331,91,2,7,Not Available
+161332,Not Available,Not Available,Not Available,Not Available
+161333,Not Available,Not Available,Not Available,Not Available
+161334,80,4,16,Not Available
+161335,87,5,8,Not Available
+161336,92,0,8,Not Available
+161337,79,6,15,Not Available
+161338,79,8,13,Not Available
+161339,75,7,18,4
+161340,81,0,19,Not Available
+161341,78,4,18,Not Available
+161342,Not Available,Not Available,Not Available,Not Available
+161343,79,4,17,4
+161344,84,1,15,Not Available
+161345,Not Available,Not Available,Not Available,Not Available
+161346,75,9,16,3
+161347,76,11,13,Not Available
+161348,79,3,18,Not Available
+161349,90,0,10,5
+161350,90,0,10,Not Available
+161351,77,10,13,Not Available
+161352,71,14,15,Not Available
+161353,87,3,10,5
+161354,Not Available,Not Available,Not Available,Not Available
+161355,65,9,26,Not Available
+161356,73,2,25,Not Available
+161357,75,0,25,Not Available
+161358,83,6,11,Not Available
+161359,81,3,16,Not Available
+161360,82,3,15,5
+161361,87,1,12,Not Available
+161362,70,8,22,3
+161363,78,4,18,Not Available
+161364,79,7,14,4
+161365,82,5,13,5
+161366,60,8,32,Not Available
+161367,67,13,20,2
+161368,80,3,17,5
+161369,81,5,14,4
+161370,Not Available,Not Available,Not Available,Not Available
+161371,81,4,15,5
+161372,83,4,13,Not Available
+161373,87,3,10,Not Available
+161374,73,9,18,3
+161375,81,2,17,5
+161376,80,4,16,5
+161377,82,3,15,Not Available
+161378,Not Available,Not Available,Not Available,Not Available
+161379,76,5,19,4
+161380,83,7,10,Not Available
+161381,56,12,32,Not Available
+170006,79,5,16,4
+170009,79,7,14,4
+170012,69,11,20,3
+170013,71,9,20,3
+170014,76,9,15,3
+170016,73,10,17,3
+170017,63,14,23,Not Available
+170020,63,14,23,2
+170023,76,8,16,4
+170027,81,5,14,4
+170040,67,12,21,2
+170049,80,5,15,4
+170068,74,6,20,4
+170074,79,7,14,4
+170086,71,9,20,3
+170103,74,6,20,4
+170104,76,7,17,4
+170105,71,8,21,3
+170109,83,7,10,4
+170110,Not Available,Not Available,Not Available,Not Available
+170120,74,9,17,3
+170122,68,11,21,3
+170123,59,16,25,1
+170137,82,4,14,5
+170142,82,3,15,5
+170146,70,9,21,3
+170175,70,9,21,3
+170176,66,12,22,2
+170182,66,16,18,2
+170183,81,6,13,4
+170185,77,6,17,4
+170186,84,5,11,5
+170187,86,4,10,5
+170188,87,6,7,5
+170190,88,5,7,5
+170191,76,5,19,4
+170194,73,12,15,Not Available
+170196,77,6,17,4
+170197,76,8,16,4
+170198,76,8,16,Not Available
+170199,95,3,2,Not Available
+170200,78,8,14,4
+170203,81,3,16,5
+170204,87,4,9,5
+171300,Not Available,Not Available,Not Available,Not Available
+171301,Not Available,Not Available,Not Available,Not Available
+171303,Not Available,Not Available,Not Available,Not Available
+171304,Not Available,Not Available,Not Available,Not Available
+171306,Not Available,Not Available,Not Available,Not Available
+171307,Not Available,Not Available,Not Available,Not Available
+171308,Not Available,Not Available,Not Available,Not Available
+171309,Not Available,Not Available,Not Available,Not Available
+171310,Not Available,Not Available,Not Available,Not Available
+171311,87,6,7,Not Available
+171312,Not Available,Not Available,Not Available,Not Available
+171313,83,0,17,Not Available
+171314,Not Available,Not Available,Not Available,Not Available
+171315,81,3,16,Not Available
+171316,90,3,7,Not Available
+171317,Not Available,Not Available,Not Available,Not Available
+171318,65,8,27,Not Available
+171319,88,6,6,Not Available
+171321,88,1,11,Not Available
+171322,Not Available,Not Available,Not Available,Not Available
+171323,Not Available,Not Available,Not Available,Not Available
+171324,Not Available,Not Available,Not Available,Not Available
+171325,Not Available,Not Available,Not Available,Not Available
+171326,66,11,23,Not Available
+171327,87,4,9,Not Available
+171328,91,1,8,Not Available
+171329,76,0,24,Not Available
+171330,88,5,7,Not Available
+171331,Not Available,Not Available,Not Available,Not Available
+171332,Not Available,Not Available,Not Available,Not Available
+171333,81,5,14,5
+171334,Not Available,Not Available,Not Available,Not Available
+171335,90,0,10,Not Available
+171336,Not Available,Not Available,Not Available,Not Available
+171337,Not Available,Not Available,Not Available,Not Available
+171338,86,0,14,Not Available
+171339,90,2,8,Not Available
+171340,Not Available,Not Available,Not Available,Not Available
+171341,75,9,16,Not Available
+171342,Not Available,Not Available,Not Available,Not Available
+171343,Not Available,Not Available,Not Available,Not Available
+171344,Not Available,Not Available,Not Available,Not Available
+171345,Not Available,Not Available,Not Available,Not Available
+171346,95,0,5,Not Available
+171347,77,7,16,Not Available
+171348,68,4,28,Not Available
+171349,88,2,10,Not Available
+171350,80,5,15,Not Available
+171351,Not Available,Not Available,Not Available,Not Available
+171352,86,0,14,Not Available
+171353,78,7,15,Not Available
+171354,89,5,6,Not Available
+171355,Not Available,Not Available,Not Available,Not Available
+171356,Not Available,Not Available,Not Available,Not Available
+171357,Not Available,Not Available,Not Available,Not Available
+171358,100,0,0,Not Available
+171359,Not Available,Not Available,Not Available,Not Available
+171360,Not Available,Not Available,Not Available,Not Available
+171361,88,2,10,5
+171362,76,7,17,4
+171363,79,5,16,4
+171364,84,5,11,Not Available
+171365,Not Available,Not Available,Not Available,Not Available
+171367,82,9,9,Not Available
+171368,Not Available,Not Available,Not Available,Not Available
+171369,91,0,9,Not Available
+171370,76,11,13,Not Available
+171371,85,2,13,5
+171372,78,5,17,Not Available
+171373,81,8,11,Not Available
+171374,87,0,13,Not Available
+171375,85,4,11,5
+171376,70,8,22,Not Available
+171377,88,3,9,5
+171378,86,0,14,Not Available
+171379,81,5,14,Not Available
+171380,81,4,15,5
+171381,91,0,9,Not Available
+171382,67,12,21,2
+171383,75,6,19,4
+171384,77,5,18,4
+171385,87,0,13,Not Available
+173300,Not Available,Not Available,Not Available,Not Available
+180001,65,12,23,2
+180002,66,16,18,2
+180004,84,3,13,5
+180005,70,10,20,3
+180009,70,11,19,3
+180010,58,18,24,1
+180011,73,8,19,3
+180012,72,10,18,3
+180013,66,12,22,2
+180016,64,8,28,2
+180017,70,12,18,3
+180018,72,9,19,3
+180019,64,13,23,2
+180020,81,6,13,4
+180024,75,10,15,3
+180025,59,18,23,1
+180027,74,6,20,3
+180029,69,13,18,2
+180035,72,8,20,3
+180038,61,16,23,2
+180040,60,17,23,1
+180043,87,3,10,5
+180044,64,17,19,2
+180045,70,10,20,3
+180046,87,4,9,Not Available
+180048,66,13,21,2
+180049,77,8,15,4
+180050,72,10,18,3
+180051,65,13,22,2
+180056,66,11,23,2
+180064,86,2,12,5
+180066,77,8,15,Not Available
+180067,69,10,21,3
+180069,86,3,11,5
+180070,74,7,19,4
+180078,78,11,11,3
+180079,86,3,11,5
+180080,71,7,22,3
+180087,76,4,20,4
+180088,62,15,23,2
+180092,74,8,18,3
+180093,76,5,19,4
+180101,65,19,16,1
+180102,59,18,23,1
+180103,67,11,22,2
+180104,72,10,18,3
+180105,86,5,9,5
+180115,86,3,11,5
+180116,83,3,14,5
+180124,76,7,17,4
+180127,70,12,18,3
+180128,90,3,7,5
+180130,64,12,24,2
+180132,48,28,24,1
+180138,77,6,17,4
+180139,74,15,11,3
+180141,65,12,23,2
+180143,66,12,22,2
+180149,81,1,18,Not Available
+180154,Not Available,Not Available,Not Available,Not Available
+180155,Not Available,Not Available,Not Available,Not Available
+180156,Not Available,Not Available,Not Available,Not Available
+181301,81,3,16,Not Available
+181302,Not Available,Not Available,Not Available,Not Available
+181304,Not Available,Not Available,Not Available,Not Available
+181305,89,1,10,Not Available
+181306,Not Available,Not Available,Not Available,Not Available
+181307,86,6,8,Not Available
+181308,86,0,14,Not Available
+181309,74,1,25,Not Available
+181310,Not Available,Not Available,Not Available,Not Available
+181311,Not Available,Not Available,Not Available,Not Available
+181314,Not Available,Not Available,Not Available,Not Available
+181315,74,10,16,3
+181316,90,3,7,Not Available
+181317,93,2,5,Not Available
+181318,Not Available,Not Available,Not Available,Not Available
+181319,66,7,27,Not Available
+181320,67,12,21,Not Available
+181321,Not Available,Not Available,Not Available,Not Available
+181322,Not Available,Not Available,Not Available,Not Available
+181323,82,3,15,Not Available
+181324,Not Available,Not Available,Not Available,Not Available
+181325,Not Available,Not Available,Not Available,Not Available
+181327,83,6,11,Not Available
+181328,83,7,10,Not Available
+181329,94,2,4,Not Available
+181330,80,4,16,Not Available
+181331,88,3,9,Not Available
+181332,90,2,8,5
+181333,Not Available,Not Available,Not Available,Not Available
+190002,74,10,16,3
+190004,71,13,16,3
+190005,66,15,19,2
+190006,74,9,17,3
+190007,64,11,25,2
+190008,76,9,15,4
+190011,74,10,16,3
+190013,77,7,16,4
+190014,62,11,27,2
+190015,72,9,19,3
+190017,73,9,18,3
+190019,73,8,19,3
+190020,75,7,18,4
+190025,89,4,7,Not Available
+190026,64,12,24,2
+190027,70,11,19,3
+190034,76,6,18,4
+190036,70,10,20,3
+190039,65,16,19,2
+190040,57,20,23,1
+190041,73,8,19,3
+190044,81,5,14,5
+190045,70,12,18,3
+190046,72,11,17,3
+190050,65,10,25,2
+190053,72,11,17,3
+190054,71,10,19,3
+190060,71,9,20,3
+190064,68,13,19,2
+190065,63,16,21,2
+190079,85,2,13,Not Available
+190086,55,17,28,1
+190088,83,7,10,Not Available
+190090,90,2,8,Not Available
+190098,62,18,20,2
+190099,55,20,25,Not Available
+190102,73,8,19,3
+190106,76,5,19,Not Available
+190111,71,9,20,3
+190114,74,5,21,4
+190116,55,13,32,Not Available
+190118,76,3,21,Not Available
+190125,69,12,19,3
+190128,74,10,16,3
+190133,74,9,17,Not Available
+190140,77,5,18,4
+190144,67,16,17,2
+190145,97,0,3,Not Available
+190151,Not Available,Not Available,Not Available,Not Available
+190160,61,18,21,1
+190164,75,7,18,4
+190167,73,14,13,3
+190176,68,12,20,2
+190183,72,8,20,3
+190184,97,0,3,5
+190190,91,2,7,Not Available
+190201,72,8,20,3
+190202,61,15,24,2
+190208,65,20,15,Not Available
+190218,75,8,17,Not Available
+190241,83,3,14,Not Available
+190245,96,0,4,Not Available
+190251,75,8,17,3
+190255,87,1,12,Not Available
+190256,90,1,9,Not Available
+190259,87,3,10,5
+190266,85,5,10,5
+190267,85,5,10,5
+190270,85,5,10,5
+190274,68,12,20,3
+190278,69,15,16,2
+190298,93,2,5,5
+190300,Not Available,Not Available,Not Available,Not Available
+190302,Not Available,Not Available,Not Available,Not Available
+190303,82,6,12,4
+190307,Not Available,Not Available,Not Available,Not Available
+190308,82,6,12,4
+190312,76,7,17,4
+190313,71,15,14,2
+190316,71,13,16,Not Available
+190317,70,14,16,2
+190318,72,11,17,3
+191300,Not Available,Not Available,Not Available,Not Available
+191301,89,0,11,Not Available
+191302,91,0,9,Not Available
+191304,75,16,9,Not Available
+191305,82,2,16,Not Available
+191306,Not Available,Not Available,Not Available,Not Available
+191307,Not Available,Not Available,Not Available,Not Available
+191308,Not Available,Not Available,Not Available,Not Available
+191309,Not Available,Not Available,Not Available,Not Available
+191310,76,0,24,Not Available
+191311,88,1,11,Not Available
+191312,Not Available,Not Available,Not Available,Not Available
+191313,Not Available,Not Available,Not Available,Not Available
+191314,Not Available,Not Available,Not Available,Not Available
+191315,92,0,8,Not Available
+191316,Not Available,Not Available,Not Available,Not Available
+191317,82,9,9,Not Available
+191318,Not Available,Not Available,Not Available,Not Available
+191319,Not Available,Not Available,Not Available,Not Available
+191320,Not Available,Not Available,Not Available,Not Available
+191321,78,7,15,Not Available
+191322,91,4,5,Not Available
+191323,86,7,7,Not Available
+191324,82,8,10,4
+191325,Not Available,Not Available,Not Available,Not Available
+191326,91,3,6,Not Available
+191327,Not Available,Not Available,Not Available,Not Available
+193300,Not Available,Not Available,Not Available,Not Available
+200001,76,5,19,4
+200008,67,13,20,2
+200009,57,14,29,2
+200018,74,10,16,3
+200019,52,21,27,1
+200020,81,7,12,4
+200021,62,14,24,2
+200024,61,16,23,2
+200031,74,8,18,3
+200033,64,13,23,2
+200034,72,10,18,3
+200037,80,3,17,5
+200039,77,6,17,4
+200041,69,11,20,3
+200050,63,13,24,2
+200052,68,7,25,3
+200063,65,13,22,2
+201300,74,4,22,Not Available
+201301,63,12,25,Not Available
+201302,77,4,19,4
+201303,84,7,9,Not Available
+201304,76,10,14,3
+201305,83,3,14,Not Available
+201306,63,15,22,Not Available
+201307,91,2,7,5
+201308,79,4,17,Not Available
+201309,78,7,15,4
+201310,79,6,15,4
+201311,79,6,15,Not Available
+201312,80,4,16,5
+201313,61,11,28,2
+201314,88,2,10,5
+201315,86,4,10,5
+210001,68,11,21,2
+210002,62,12,26,2
+210003,67,12,21,2
+210004,60,15,25,2
+210005,64,12,24,2
+210008,67,14,19,2
+210009,70,8,22,3
+210011,63,16,21,2
+210012,64,14,22,2
+210015,65,13,22,2
+210016,78,8,14,4
+210017,83,3,14,5
+210018,69,10,21,3
+210019,65,13,22,2
+210022,79,6,15,4
+210023,69,11,20,3
+210024,71,9,20,3
+210027,76,8,16,4
+210028,65,11,24,2
+210029,65,13,22,2
+210030,78,5,17,Not Available
+210032,67,11,22,3
+210033,62,15,23,2
+210034,73,7,20,3
+210035,68,10,22,3
+210037,66,13,21,2
+210038,66,17,17,2
+210039,76,7,17,4
+210040,61,17,22,2
+210043,73,8,19,3
+210044,61,14,25,2
+210048,59,15,26,2
+210049,57,17,26,1
+210051,67,11,22,3
+210056,69,11,20,3
+210057,70,9,21,3
+210058,Not Available,Not Available,Not Available,Not Available
+210060,69,9,22,3
+210061,73,8,19,3
+210062,61,15,24,2
+210063,67,11,22,3
+210064,Not Available,Not Available,Not Available,Not Available
+210065,64,14,22,2
+213300,Not Available,Not Available,Not Available,Not Available
+213301,Not Available,Not Available,Not Available,Not Available
+220001,72,8,20,3
+220002,68,10,22,3
+220008,75,7,18,4
+220010,63,14,23,2
+220011,73,10,17,3
+220012,74,9,17,3
+220015,70,8,22,3
+220016,73,6,21,3
+220017,75,3,22,4
+220019,72,8,20,3
+220020,84,5,11,5
+220024,78,5,17,4
+220029,69,11,20,3
+220030,71,11,18,3
+220031,69,10,21,3
+220033,68,10,22,3
+220035,67,12,21,2
+220036,66,14,20,2
+220046,60,12,28,2
+220049,79,5,16,4
+220052,Not Available,Not Available,Not Available,Not Available
+220060,68,11,21,3
+220062,Not Available,Not Available,Not Available,Not Available
+220063,68,11,21,3
+220065,77,7,16,4
+220066,64,13,23,2
+220070,57,16,27,1
+220071,67,8,25,3
+220073,70,8,22,3
+220074,72,9,19,3
+220075,80,5,15,4
+220077,64,14,22,2
+220080,64,15,21,2
+220083,69,10,21,3
+220084,68,10,22,3
+220086,69,9,22,3
+220088,77,6,17,4
+220090,71,9,20,3
+220095,77,7,16,4
+220098,64,15,21,2
+220100,67,10,23,3
+220101,60,14,26,2
+220105,67,10,23,3
+220108,65,9,26,2
+220110,66,10,24,3
+220111,70,9,21,3
+220116,66,10,24,3
+220119,62,17,21,2
+220126,Not Available,Not Available,Not Available,Not Available
+220135,72,7,21,3
+220163,68,12,20,3
+220171,65,14,21,2
+220175,51,23,26,1
+220176,58,18,24,1
+220177,69,9,22,Not Available
+221300,69,8,23,3
+221302,63,11,26,2
+221303,85,4,11,Not Available
+223300,Not Available,Not Available,Not Available,Not Available
+223302,Not Available,Not Available,Not Available,Not Available
+223303,Not Available,Not Available,Not Available,Not Available
+223304,Not Available,Not Available,Not Available,Not Available
+230002,55,18,27,1
+230003,72,9,19,3
+230005,79,6,15,4
+230013,Not Available,Not Available,Not Available,Not Available
+230015,68,9,23,3
+230017,64,13,23,2
+230019,56,20,24,1
+230020,49,26,25,1
+230021,69,10,21,3
+230022,71,9,20,3
+230024,59,20,21,1
+230029,53,22,25,1
+230030,71,8,21,3
+230031,64,18,18,2
+230035,63,16,21,2
+230036,84,4,12,5
+230037,69,11,20,3
+230038,63,14,23,2
+230041,58,17,25,1
+230046,60,13,27,2
+230047,64,13,23,2
+230053,67,12,21,2
+230054,66,12,22,2
+230055,70,12,18,3
+230058,65,12,23,2
+230059,70,7,23,3
+230066,57,19,24,1
+230069,76,7,17,4
+230070,63,12,25,2
+230071,Not Available,Not Available,Not Available,Not Available
+230072,78,5,17,4
+230075,67,10,23,2
+230077,68,12,20,2
+230078,Not Available,Not Available,Not Available,Not Available
+230080,75,3,22,4
+230081,63,13,24,2
+230085,75,1,24,Not Available
+230089,61,13,26,2
+230092,65,14,21,2
+230093,76,4,20,4
+230095,81,7,12,4
+230097,62,15,23,2
+230099,61,15,24,2
+230100,73,10,17,3
+230104,54,22,24,1
+230105,56,23,21,1
+230108,82,4,14,5
+230110,76,6,18,4
+230117,57,20,23,1
+230121,61,14,25,2
+230130,46,24,30,1
+230132,56,18,26,1
+230133,72,4,24,4
+230141,51,21,28,1
+230142,58,19,23,1
+230144,75,11,14,Not Available
+230146,68,10,22,3
+230151,54,20,26,1
+230156,53,22,25,1
+230165,57,20,23,1
+230167,65,13,22,2
+230174,64,19,17,1
+230176,63,14,23,2
+230180,74,7,19,4
+230193,55,18,27,1
+230195,62,16,22,2
+230197,57,19,24,1
+230207,67,10,23,3
+230208,81,4,15,5
+230216,68,11,21,3
+230217,75,7,18,4
+230222,69,10,21,3
+230227,53,23,24,1
+230230,64,14,22,2
+230236,65,12,23,2
+230239,67,11,22,2
+230241,84,2,14,5
+230244,70,13,17,2
+230254,75,8,17,3
+230259,71,8,21,3
+230264,82,8,10,Not Available
+230269,61,16,23,2
+230270,54,19,27,1
+230273,57,24,19,1
+230275,Not Available,Not Available,Not Available,Not Available
+230277,58,17,25,1
+230279,Not Available,Not Available,Not Available,Not Available
+230297,72,8,20,3
+230301,75,11,14,Not Available
+230302,59,17,24,1
+230303,79,6,15,4
+231300,Not Available,Not Available,Not Available,Not Available
+231301,Not Available,Not Available,Not Available,Not Available
+231303,90,0,10,Not Available
+231304,84,7,9,Not Available
+231305,89,2,9,5
+231306,93,1,6,Not Available
+231307,83,5,12,Not Available
+231308,Not Available,Not Available,Not Available,Not Available
+231309,Not Available,Not Available,Not Available,Not Available
+231310,92,1,7,Not Available
+231311,Not Available,Not Available,Not Available,Not Available
+231312,Not Available,Not Available,Not Available,Not Available
+231313,Not Available,Not Available,Not Available,Not Available
+231314,Not Available,Not Available,Not Available,Not Available
+231315,78,9,13,Not Available
+231316,72,7,21,3
+231317,Not Available,Not Available,Not Available,Not Available
+231318,80,6,14,Not Available
+231319,71,7,22,Not Available
+231320,75,5,20,4
+231321,82,7,11,4
+231322,81,7,12,4
+231323,77,6,17,Not Available
+231324,79,6,15,Not Available
+231325,78,7,15,4
+231326,76,6,18,4
+231327,82,5,13,4
+231328,73,8,19,Not Available
+231329,Not Available,Not Available,Not Available,Not Available
+231330,80,0,20,Not Available
+231331,76,8,16,3
+231332,79,4,17,5
+231333,87,6,7,5
+231337,77,7,16,4
+231338,81,4,15,5
+231339,79,5,16,4
+231340,Not Available,Not Available,Not Available,Not Available
+233300,Not Available,Not Available,Not Available,Not Available
+240001,64,11,25,2
+240002,58,18,24,1
+240004,62,14,24,2
+240006,84,3,13,5
+240010,75,7,18,4
+240014,75,7,18,4
+240018,74,5,21,4
+240019,66,8,26,3
+240020,59,18,23,1
+240022,75,5,20,4
+240030,70,11,19,3
+240036,70,10,20,3
+240038,65,10,25,2
+240040,81,4,15,5
+240043,68,12,20,2
+240044,62,17,21,2
+240047,63,15,22,2
+240050,60,14,26,2
+240052,69,10,21,3
+240053,70,9,21,3
+240056,64,13,23,2
+240057,65,14,21,2
+240064,71,8,21,3
+240066,76,8,16,4
+240069,78,4,18,4
+240071,66,13,21,2
+240075,66,13,21,2
+240076,66,10,24,2
+240078,61,13,26,2
+240080,59,15,26,2
+240084,63,10,27,2
+240088,71,11,18,3
+240093,69,9,22,3
+240100,65,13,22,2
+240101,72,5,23,4
+240104,60,15,25,2
+240106,68,10,22,3
+240115,68,9,23,3
+240141,75,8,17,4
+240166,83,2,15,5
+240187,76,6,18,4
+240206,Not Available,Not Available,Not Available,Not Available
+240207,60,16,24,1
+240210,62,11,27,2
+240213,63,15,22,2
+240214,67,10,23,3
+241300,Not Available,Not Available,Not Available,Not Available
+241301,90,0,10,Not Available
+241302,Not Available,Not Available,Not Available,Not Available
+241303,Not Available,Not Available,Not Available,Not Available
+241304,Not Available,Not Available,Not Available,Not Available
+241305,85,1,14,5
+241306,73,5,22,Not Available
+241308,91,0,9,Not Available
+241309,81,5,14,Not Available
+241311,Not Available,Not Available,Not Available,Not Available
+241312,82,3,15,Not Available
+241313,Not Available,Not Available,Not Available,Not Available
+241314,90,10,0,Not Available
+241315,Not Available,Not Available,Not Available,Not Available
+241316,89,3,8,Not Available
+241317,92,0,8,Not Available
+241318,81,5,14,Not Available
+241319,88,1,11,Not Available
+241320,82,6,12,4
+241321,Not Available,Not Available,Not Available,Not Available
+241322,82,6,12,Not Available
+241323,88,3,9,Not Available
+241325,76,7,17,4
+241326,95,5,0,Not Available
+241327,95,0,5,Not Available
+241328,71,12,17,Not Available
+241329,73,10,17,3
+241330,90,2,8,Not Available
+241332,82,6,12,Not Available
+241333,92,0,8,Not Available
+241334,87,5,8,5
+241335,94,2,4,Not Available
+241336,98,0,2,Not Available
+241337,Not Available,Not Available,Not Available,Not Available
+241338,95,3,2,Not Available
+241339,Not Available,Not Available,Not Available,Not Available
+241340,78,3,19,Not Available
+241341,Not Available,Not Available,Not Available,Not Available
+241342,67,5,28,Not Available
+241343,78,10,12,Not Available
+241344,77,9,14,Not Available
+241345,86,2,12,Not Available
+241346,91,1,8,Not Available
+241347,79,3,18,Not Available
+241348,Not Available,Not Available,Not Available,Not Available
+241349,92,1,7,Not Available
+241350,81,10,9,4
+241351,72,6,22,Not Available
+241353,72,10,18,3
+241354,80,4,16,4
+241355,73,8,19,3
+241356,88,6,6,Not Available
+241357,76,5,19,Not Available
+241358,Not Available,Not Available,Not Available,Not Available
+241359,72,11,17,3
+241360,71,11,18,Not Available
+241361,76,5,19,4
+241362,73,8,19,3
+241363,81,3,16,5
+241364,82,5,13,5
+241365,74,0,26,Not Available
+241366,79,4,17,4
+241367,85,3,12,5
+241368,75,4,21,Not Available
+241369,82,3,15,5
+241370,83,6,11,5
+241371,80,2,18,Not Available
+241372,Not Available,Not Available,Not Available,Not Available
+241373,78,4,18,4
+241374,87,4,9,Not Available
+241375,Not Available,Not Available,Not Available,Not Available
+241376,88,1,11,5
+241377,79,0,21,Not Available
+241378,75,7,18,4
+241379,Not Available,Not Available,Not Available,Not Available
+241380,79,8,13,4
+241381,63,15,22,2
+243300,Not Available,Not Available,Not Available,Not Available
+243302,Not Available,Not Available,Not Available,Not Available
+250001,67,13,20,2
+250002,86,4,10,Not Available
+250004,62,18,20,2
+250006,76,9,15,3
+250007,61,21,18,1
+250009,62,15,23,2
+250017,Not Available,Not Available,Not Available,Not Available
+250018,Not Available,Not Available,Not Available,Not Available
+250019,59,18,23,1
+250020,80,5,15,Not Available
+250025,72,11,17,3
+250027,64,22,14,Not Available
+250031,64,14,22,2
+250034,61,19,20,1
+250036,77,3,20,4
+250038,82,6,12,4
+250040,72,9,19,3
+250042,62,23,15,1
+250043,78,5,17,Not Available
+250044,81,7,12,4
+250048,56,22,22,1
+250049,Not Available,Not Available,Not Available,Not Available
+250050,73,10,17,3
+250057,79,5,16,4
+250058,63,15,22,2
+250061,60,15,25,Not Available
+250067,72,14,14,Not Available
+250069,63,14,23,2
+250072,60,25,15,1
+250077,76,6,18,Not Available
+250078,62,15,23,2
+250081,Not Available,Not Available,Not Available,Not Available
+250082,71,15,14,2
+250084,69,13,18,2
+250085,74,11,15,Not Available
+250093,70,15,15,2
+250094,61,17,22,2
+250095,70,6,24,Not Available
+250096,78,7,15,4
+250097,68,12,20,2
+250099,83,7,10,Not Available
+250100,71,12,17,3
+250102,61,15,24,2
+250104,61,19,20,1
+250117,74,5,21,Not Available
+250123,73,8,19,3
+250124,71,12,17,Not Available
+250127,Not Available,Not Available,Not Available,Not Available
+250134,Not Available,Not Available,Not Available,Not Available
+250136,74,10,16,3
+250138,58,20,22,1
+250141,57,18,25,1
+250151,Not Available,Not Available,Not Available,Not Available
+250152,Not Available,Not Available,Not Available,Not Available
+250162,69,10,21,Not Available
+250167,72,10,18,3
+250168,78,10,12,4
+250172,79,2,19,Not Available
+251300,83,5,12,Not Available
+251302,Not Available,Not Available,Not Available,Not Available
+251304,94,0,6,Not Available
+251305,Not Available,Not Available,Not Available,Not Available
+251307,Not Available,Not Available,Not Available,Not Available
+251308,74,4,22,Not Available
+251309,Not Available,Not Available,Not Available,Not Available
+251312,82,8,10,Not Available
+251313,74,10,16,Not Available
+251314,Not Available,Not Available,Not Available,Not Available
+251315,87,1,12,Not Available
+251316,74,5,21,Not Available
+251317,75,9,16,Not Available
+251318,Not Available,Not Available,Not Available,Not Available
+251319,Not Available,Not Available,Not Available,Not Available
+251320,Not Available,Not Available,Not Available,Not Available
+251322,84,2,14,Not Available
+251323,93,0,7,Not Available
+251324,Not Available,Not Available,Not Available,Not Available
+251325,Not Available,Not Available,Not Available,Not Available
+251326,Not Available,Not Available,Not Available,Not Available
+251327,87,3,10,Not Available
+251329,Not Available,Not Available,Not Available,Not Available
+251330,Not Available,Not Available,Not Available,Not Available
+251331,75,6,19,Not Available
+251333,Not Available,Not Available,Not Available,Not Available
+251334,89,3,8,Not Available
+251335,72,7,21,Not Available
+251336,69,10,21,Not Available
+251337,90,1,9,Not Available
+251338,Not Available,Not Available,Not Available,Not Available
+251339,Not Available,Not Available,Not Available,Not Available
+260001,66,12,22,2
+260005,61,14,25,2
+260006,69,10,21,3
+260009,75,7,18,4
+260011,72,10,18,3
+260017,71,7,22,3
+260020,52,20,28,1
+260022,60,17,23,1
+260023,74,7,19,4
+260024,93,1,6,5
+260025,62,14,24,2
+260027,63,13,24,2
+260032,65,13,22,2
+260034,78,9,13,Not Available
+260040,64,14,22,2
+260047,76,7,17,4
+260048,66,14,20,2
+260050,79,3,18,5
+260052,58,19,23,1
+260057,72,7,21,3
+260059,72,9,19,3
+260061,69,13,18,Not Available
+260062,76,7,17,4
+260065,58,15,27,2
+260068,69,11,20,3
+260070,46,34,20,Not Available
+260074,76,5,19,4
+260077,47,28,25,1
+260078,64,13,23,2
+260081,59,20,21,1
+260085,75,7,18,3
+260091,57,19,24,1
+260094,75,7,18,4
+260095,73,7,20,3
+260096,72,8,20,3
+260097,75,8,17,4
+260102,76,7,17,4
+260104,55,19,26,1
+260105,61,15,24,2
+260108,64,14,22,2
+260110,61,17,22,2
+260113,73,9,18,3
+260119,73,10,17,3
+260137,63,12,25,2
+260138,80,5,15,4
+260141,66,11,23,2
+260142,64,11,25,2
+260160,68,15,17,Not Available
+260162,74,9,17,3
+260163,72,10,18,3
+260175,71,11,18,3
+260176,74,6,20,4
+260177,71,8,21,3
+260179,71,8,21,3
+260180,72,13,15,3
+260183,64,14,22,2
+260186,68,11,21,2
+260190,67,10,23,3
+260191,51,27,22,1
+260193,76,6,18,4
+260195,79,5,16,4
+260200,54,25,21,1
+260210,Not Available,Not Available,Not Available,Not Available
+260214,62,15,23,2
+260216,68,12,20,2
+260219,58,19,23,1
+261301,93,0,7,Not Available
+261302,74,10,16,Not Available
+261303,83,8,9,Not Available
+261305,Not Available,Not Available,Not Available,Not Available
+261306,Not Available,Not Available,Not Available,Not Available
+261307,Not Available,Not Available,Not Available,Not Available
+261308,74,7,19,Not Available
+261309,83,0,17,Not Available
+261310,75,6,19,Not Available
+261311,70,10,20,3
+261312,70,10,20,Not Available
+261313,Not Available,Not Available,Not Available,Not Available
+261314,Not Available,Not Available,Not Available,Not Available
+261316,75,5,20,4
+261317,79,5,16,Not Available
+261318,74,7,19,Not Available
+261319,63,13,24,2
+261320,82,3,15,5
+261321,86,2,12,5
+261322,66,7,27,Not Available
+261323,77,9,14,Not Available
+261324,86,4,10,5
+261325,89,2,9,5
+261327,88,0,12,Not Available
+261328,87,2,11,Not Available
+261329,83,4,13,5
+261330,86,2,12,5
+261331,77,7,16,4
+261332,95,1,4,Not Available
+261333,90,2,8,Not Available
+261335,78,3,19,Not Available
+261336,79,14,7,Not Available
+261337,86,3,11,5
+261338,79,5,16,4
+263301,Not Available,Not Available,Not Available,Not Available
+263302,Not Available,Not Available,Not Available,Not Available
+263303,Not Available,Not Available,Not Available,Not Available
+263304,Not Available,Not Available,Not Available,Not Available
+270003,62,13,25,2
+270004,65,13,22,2
+270012,72,11,17,3
+270014,70,8,22,3
+270017,80,4,16,5
+270023,61,17,22,2
+270049,64,11,25,2
+270051,69,13,18,2
+270057,62,17,21,2
+270074,Not Available,Not Available,Not Available,Not Available
+270086,68,14,18,2
+271300,Not Available,Not Available,Not Available,Not Available
+271301,Not Available,Not Available,Not Available,Not Available
+271302,Not Available,Not Available,Not Available,Not Available
+271303,Not Available,Not Available,Not Available,Not Available
+271304,Not Available,Not Available,Not Available,Not Available
+271305,Not Available,Not Available,Not Available,Not Available
+271306,Not Available,Not Available,Not Available,Not Available
+271307,Not Available,Not Available,Not Available,Not Available
+271308,Not Available,Not Available,Not Available,Not Available
+271309,Not Available,Not Available,Not Available,Not Available
+271310,Not Available,Not Available,Not Available,Not Available
+271311,Not Available,Not Available,Not Available,Not Available
+271312,82,7,11,Not Available
+271313,Not Available,Not Available,Not Available,Not Available
+271314,Not Available,Not Available,Not Available,Not Available
+271315,Not Available,Not Available,Not Available,Not Available
+271316,77,3,20,Not Available
+271317,66,15,19,2
+271318,89,1,10,Not Available
+271319,Not Available,Not Available,Not Available,Not Available
+271320,82,5,13,5
+271321,Not Available,Not Available,Not Available,Not Available
+271322,Not Available,Not Available,Not Available,Not Available
+271323,87,4,9,Not Available
+271324,Not Available,Not Available,Not Available,Not Available
+271325,80,3,17,Not Available
+271326,Not Available,Not Available,Not Available,Not Available
+271327,Not Available,Not Available,Not Available,Not Available
+271328,Not Available,Not Available,Not Available,Not Available
+271329,Not Available,Not Available,Not Available,Not Available
+271330,82,7,11,Not Available
+271331,89,3,8,Not Available
+271332,69,11,20,Not Available
+271333,70,11,19,Not Available
+271334,Not Available,Not Available,Not Available,Not Available
+271335,75,7,18,4
+271336,80,4,16,5
+271337,Not Available,Not Available,Not Available,Not Available
+271338,Not Available,Not Available,Not Available,Not Available
+271339,Not Available,Not Available,Not Available,Not Available
+271340,87,4,9,5
+271341,Not Available,Not Available,Not Available,Not Available
+271342,Not Available,Not Available,Not Available,Not Available
+271343,65,12,23,Not Available
+271344,78,8,14,4
+271345,77,8,15,4
+271346,Not Available,Not Available,Not Available,Not Available
+271347,83,3,14,5
+271348,Not Available,Not Available,Not Available,Not Available
+271389,Not Available,Not Available,Not Available,Not Available
+280003,72,8,20,3
+280009,66,14,20,2
+280013,65,10,25,2
+280020,73,6,21,3
+280023,75,6,19,4
+280032,71,7,22,3
+280040,66,12,22,2
+280059,Not Available,Not Available,Not Available,Not Available
+280060,59,17,24,1
+280061,60,16,24,2
+280065,74,7,19,3
+280077,75,9,16,3
+280081,69,10,21,3
+280105,82,4,14,5
+280111,78,4,18,4
+280125,76,6,18,4
+280127,88,5,7,Not Available
+280128,80,6,14,4
+280129,83,6,11,4
+280130,77,6,17,4
+280131,86,4,10,5
+280132,76,5,19,4
+280133,78,7,15,4
+280134,75,7,18,4
+280139,73,11,16,3
+281300,86,3,11,Not Available
+281301,82,7,11,Not Available
+281302,Not Available,Not Available,Not Available,Not Available
+281303,Not Available,Not Available,Not Available,Not Available
+281304,83,3,14,5
+281305,67,9,24,Not Available
+281306,85,9,6,Not Available
+281307,Not Available,Not Available,Not Available,Not Available
+281308,85,3,12,Not Available
+281309,84,2,14,Not Available
+281310,Not Available,Not Available,Not Available,Not Available
+281311,Not Available,Not Available,Not Available,Not Available
+281312,Not Available,Not Available,Not Available,Not Available
+281313,85,0,15,Not Available
+281314,Not Available,Not Available,Not Available,Not Available
+281315,85,5,10,Not Available
+281316,Not Available,Not Available,Not Available,Not Available
+281318,96,2,2,Not Available
+281319,70,0,30,Not Available
+281320,Not Available,Not Available,Not Available,Not Available
+281322,88,5,7,5
+281323,Not Available,Not Available,Not Available,Not Available
+281324,Not Available,Not Available,Not Available,Not Available
+281325,Not Available,Not Available,Not Available,Not Available
+281326,87,6,7,Not Available
+281327,93,5,2,Not Available
+281328,82,8,10,Not Available
+281329,83,3,14,5
+281331,Not Available,Not Available,Not Available,Not Available
+281332,77,7,16,Not Available
+281333,Not Available,Not Available,Not Available,Not Available
+281334,85,4,11,5
+281335,93,0,7,Not Available
+281336,76,3,21,4
+281338,81,6,13,Not Available
+281339,78,10,12,Not Available
+281340,Not Available,Not Available,Not Available,Not Available
+281341,71,5,24,4
+281342,85,1,14,Not Available
+281343,85,0,15,Not Available
+281344,66,5,29,Not Available
+281345,88,1,11,Not Available
+281346,Not Available,Not Available,Not Available,Not Available
+281347,82,9,9,Not Available
+281348,Not Available,Not Available,Not Available,Not Available
+281349,85,2,13,Not Available
+281350,95,1,4,Not Available
+281351,Not Available,Not Available,Not Available,Not Available
+281352,90,1,9,5
+281353,92,5,3,Not Available
+281354,70,7,23,Not Available
+281355,86,0,14,Not Available
+281356,85,8,7,Not Available
+281357,77,10,13,3
+281358,90,4,6,Not Available
+281359,76,6,18,4
+281360,Not Available,Not Available,Not Available,Not Available
+281361,89,3,8,Not Available
+281362,77,9,14,3
+281363,86,1,13,Not Available
+281364,77,6,17,4
+281365,82,5,13,Not Available
+283300,Not Available,Not Available,Not Available,Not Available
+283301,Not Available,Not Available,Not Available,Not Available
+290001,62,15,23,2
+290003,63,18,19,1
+290005,70,14,16,2
+290007,64,15,21,2
+290008,75,4,21,4
+290009,73,10,17,3
+290012,Not Available,Not Available,Not Available,Not Available
+290019,77,6,17,4
+290021,59,19,22,1
+290032,70,10,20,3
+290039,68,13,19,2
+290041,75,8,17,3
+290042,Not Available,Not Available,Not Available,Not Available
+290045,69,11,20,3
+290046,66,16,18,2
+290047,75,9,16,4
+290049,68,13,19,2
+290053,72,10,18,3
+290054,64,15,21,2
+290057,71,12,17,3
+290058,70,15,15,Not Available
+290061,75,10,15,3
+291300,79,8,13,Not Available
+291301,Not Available,Not Available,Not Available,Not Available
+291302,77,5,18,Not Available
+291303,Not Available,Not Available,Not Available,Not Available
+291304,Not Available,Not Available,Not Available,Not Available
+291306,81,4,15,4
+291307,73,8,19,3
+291308,77,1,22,Not Available
+291309,Not Available,Not Available,Not Available,Not Available
+291311,70,13,17,2
+291312,Not Available,Not Available,Not Available,Not Available
+291313,84,3,13,5
+291314,Not Available,Not Available,Not Available,Not Available
+300001,65,14,21,2
+300003,69,10,21,3
+300005,59,13,28,2
+300011,72,8,20,3
+300012,63,13,24,2
+300014,83,6,11,4
+300017,75,6,19,3
+300018,70,9,21,3
+300019,65,11,24,2
+300020,69,8,23,3
+300023,69,9,22,3
+300029,74,8,18,3
+300034,70,8,22,3
+301300,90,0,10,Not Available
+301301,86,3,11,5
+301302,88,3,9,5
+301303,87,0,13,Not Available
+301304,75,4,21,4
+301305,83,5,12,5
+301306,80,10,10,Not Available
+301307,80,5,15,4
+301308,81,6,13,Not Available
+301309,77,10,13,3
+301310,89,1,10,Not Available
+301311,85,4,11,5
+301312,74,5,21,4
+310001,68,10,22,3
+310002,64,16,20,2
+310003,71,10,19,3
+310005,62,16,22,2
+310006,75,10,15,3
+310008,80,6,14,4
+310009,68,12,20,3
+310010,75,6,19,4
+310011,65,12,23,2
+310012,77,6,17,4
+310014,67,13,20,2
+310015,72,9,19,3
+310016,63,16,21,2
+310017,66,11,23,2
+310019,69,11,20,3
+310022,63,15,22,2
+310024,69,10,21,3
+310025,61,19,20,1
+310027,70,13,17,3
+310028,72,9,19,3
+310029,57,19,24,1
+310031,63,14,23,2
+310032,68,12,20,2
+310034,72,8,20,3
+310038,71,9,20,3
+310039,66,12,22,2
+310040,76,5,19,4
+310041,60,15,25,2
+310044,70,10,20,3
+310045,71,10,19,3
+310047,67,9,24,3
+310048,73,8,19,3
+310050,73,8,19,3
+310051,70,9,21,3
+310052,68,10,22,3
+310054,74,7,19,3
+310057,63,14,23,2
+310058,74,9,17,Not Available
+310060,82,4,14,5
+310061,55,16,29,1
+310064,64,12,24,2
+310069,77,6,17,4
+310070,69,10,21,3
+310073,65,12,23,2
+310074,70,10,20,3
+310075,71,9,20,3
+310076,66,11,23,2
+310083,68,14,18,2
+310084,70,11,19,3
+310086,66,12,22,2
+310092,62,19,19,1
+310096,74,12,14,3
+310108,66,11,23,2
+310110,63,13,24,2
+310111,71,8,21,3
+310112,68,8,24,3
+310113,66,10,24,2
+310115,69,9,22,3
+310118,69,11,20,3
+310119,57,20,23,1
+310130,64,13,23,2
+310131,Not Available,Not Available,Not Available,Not Available
+313300,Not Available,Not Available,Not Available,Not Available
+313302,Not Available,Not Available,Not Available,Not Available
+320001,54,19,27,1
+320002,64,11,25,2
+320004,78,6,16,4
+320005,63,11,26,2
+320006,73,11,16,3
+320009,67,12,21,2
+320011,81,5,14,5
+320017,60,20,20,1
+320018,68,11,21,3
+320021,68,11,21,3
+320022,72,9,19,3
+320030,73,10,17,Not Available
+320033,69,9,22,3
+320057,Not Available,Not Available,Not Available,Not Available
+320059,74,4,22,4
+320060,60,11,29,Not Available
+320061,62,13,25,2
+320062,Not Available,Not Available,Not Available,Not Available
+320063,61,22,17,1
+320065,74,10,16,Not Available
+320074,68,15,17,2
+320084,Not Available,Not Available,Not Available,Not Available
+320085,66,15,19,2
+320086,69,16,15,2
+320089,72,10,18,3
+320090,75,8,17,3
+320091,85,4,11,5
+321300,Not Available,Not Available,Not Available,Not Available
+321301,66,1,33,Not Available
+321302,74,10,16,Not Available
+321304,Not Available,Not Available,Not Available,Not Available
+321305,83,6,11,5
+321306,78,6,16,4
+321307,85,2,13,Not Available
+321308,82,1,17,Not Available
+321309,78,10,12,Not Available
+321310,69,7,24,3
+321311,74,7,19,3
+321312,Not Available,Not Available,Not Available,Not Available
+321313,Not Available,Not Available,Not Available,Not Available
+330005,57,19,24,1
+330006,78,6,16,4
+330008,83,5,12,5
+330009,67,15,18,2
+330011,70,10,20,3
+330013,52,20,28,1
+330014,66,12,22,2
+330019,64,14,22,2
+330023,69,12,19,2
+330024,62,11,27,2
+330027,65,16,19,2
+330028,66,10,24,3
+330030,61,13,26,2
+330033,71,11,18,3
+330043,66,11,23,2
+330044,56,19,25,1
+330045,73,6,21,4
+330046,68,9,23,3
+330047,64,13,23,2
+330049,76,8,16,4
+330055,69,9,22,3
+330056,69,10,21,3
+330057,67,12,21,2
+330058,55,20,25,1
+330059,65,13,22,2
+330065,50,20,30,1
+330073,61,14,25,2
+330074,62,14,24,2
+330078,57,17,26,1
+330079,79,5,16,4
+330080,67,12,21,2
+330085,77,5,18,4
+330086,80,10,10,Not Available
+330090,62,13,25,2
+330094,68,9,23,3
+330096,72,10,18,3
+330100,Not Available,Not Available,Not Available,Not Available
+330101,67,11,22,3
+330102,70,9,21,3
+330103,60,17,23,1
+330104,65,12,23,2
+330106,67,11,22,3
+330107,75,7,18,4
+330111,66,9,25,2
+330115,72,8,20,3
+330119,67,11,22,3
+330125,51,22,27,1
+330126,67,13,20,2
+330127,65,15,20,2
+330128,71,9,20,3
+330135,80,6,14,4
+330136,66,12,22,2
+330140,62,13,25,2
+330141,56,19,25,1
+330144,82,3,15,Not Available
+330151,74,5,21,4
+330153,69,10,21,3
+330157,72,8,20,3
+330158,72,9,19,3
+330160,64,14,22,2
+330162,71,9,20,3
+330164,55,20,25,1
+330166,72,5,23,Not Available
+330169,63,14,23,2
+330175,68,12,20,2
+330180,61,18,21,1
+330181,78,7,15,4
+330182,76,6,18,4
+330184,54,22,24,1
+330185,84,3,13,5
+330188,70,7,23,3
+330191,63,14,23,2
+330193,71,11,18,3
+330194,58,18,24,1
+330195,74,7,19,4
+330196,72,9,19,3
+330197,64,10,26,2
+330198,64,14,22,2
+330199,68,9,23,3
+330202,69,8,23,3
+330203,59,16,25,1
+330204,60,17,23,2
+330205,72,6,22,3
+330208,73,8,19,3
+330211,70,9,21,3
+330214,71,9,20,3
+330215,61,13,26,2
+330218,76,7,17,4
+330219,64,12,24,2
+330221,70,12,18,3
+330222,76,8,16,4
+330224,58,19,23,1
+330226,54,20,26,1
+330229,73,6,21,4
+330231,75,6,19,4
+330233,62,15,23,2
+330234,56,17,27,1
+330235,64,14,22,2
+330238,74,10,16,3
+330239,63,12,25,2
+330240,74,8,18,4
+330241,64,12,24,2
+330245,51,21,28,1
+330246,71,7,22,3
+330250,68,12,20,3
+330259,72,11,17,3
+330261,63,14,23,2
+330264,70,9,21,3
+330265,58,13,29,2
+330267,74,9,17,3
+330270,79,5,16,4
+330273,69,8,23,3
+330276,68,10,22,3
+330277,56,17,27,1
+330279,60,14,26,2
+330285,55,17,28,1
+330286,70,9,21,3
+330304,79,6,15,4
+330307,70,9,21,3
+330331,73,8,19,3
+330332,68,11,21,3
+330350,69,12,19,2
+330386,71,8,21,3
+330393,65,12,23,2
+330394,64,12,24,2
+330395,66,17,17,2
+330396,75,8,17,3
+330399,65,16,19,2
+330401,77,7,16,4
+330405,Not Available,Not Available,Not Available,Not Available
+330406,Not Available,Not Available,Not Available,Not Available
+330411,Not Available,Not Available,Not Available,Not Available
+331301,Not Available,Not Available,Not Available,Not Available
+331302,86,3,11,Not Available
+331303,90,0,10,Not Available
+331304,87,0,13,Not Available
+331305,94,1,5,Not Available
+331307,Not Available,Not Available,Not Available,Not Available
+331309,65,17,18,Not Available
+331310,Not Available,Not Available,Not Available,Not Available
+331311,70,9,21,3
+331312,89,2,9,Not Available
+331313,80,2,18,Not Available
+331314,71,7,22,Not Available
+331315,Not Available,Not Available,Not Available,Not Available
+331316,81,6,13,4
+331317,Not Available,Not Available,Not Available,Not Available
+331318,Not Available,Not Available,Not Available,Not Available
+331319,70,5,25,Not Available
+331320,82,4,14,5
+331321,74,7,19,4
+331322,Not Available,Not Available,Not Available,Not Available
+333301,Not Available,Not Available,Not Available,Not Available
+340001,64,16,20,2
+340002,47,27,26,1
+340003,81,4,15,5
+340004,58,16,26,1
+340008,74,10,16,3
+340010,70,9,21,3
+340013,75,10,15,3
+340014,62,14,24,2
+340015,64,12,24,2
+340016,69,13,18,2
+340017,84,4,12,5
+340020,72,12,16,3
+340021,60,18,22,1
+340023,80,5,15,4
+340024,61,18,21,2
+340027,61,14,25,2
+340028,62,15,23,2
+340030,66,10,24,3
+340032,62,15,23,2
+340039,69,11,20,3
+340040,63,14,23,2
+340041,69,9,22,3
+340042,67,13,20,2
+340047,62,14,24,2
+340049,77,6,17,4
+340050,59,18,23,1
+340051,71,11,18,3
+340053,59,17,24,1
+340060,67,10,23,2
+340061,68,10,22,3
+340064,68,9,23,3
+340068,60,18,22,1
+340069,67,12,21,2
+340070,66,13,21,2
+340071,65,13,22,2
+340073,75,8,17,4
+340075,65,10,25,2
+340084,73,14,13,Not Available
+340085,71,8,21,3
+340087,77,9,14,4
+340090,74,8,18,3
+340091,70,9,21,3
+340096,64,13,23,2
+340097,83,6,11,5
+340098,69,9,22,3
+340099,71,7,22,3
+340107,71,8,21,3
+340109,76,7,17,4
+340113,63,14,23,2
+340114,73,8,19,3
+340115,71,10,19,3
+340116,60,18,22,1
+340119,84,4,12,5
+340120,68,6,26,3
+340123,63,14,23,2
+340126,54,23,23,1
+340127,67,13,20,2
+340129,54,25,21,1
+340130,67,9,24,3
+340131,65,13,22,2
+340132,62,13,25,2
+340141,55,21,24,1
+340142,77,7,16,4
+340143,70,9,21,3
+340144,Not Available,Not Available,Not Available,Not Available
+340145,79,4,17,4
+340147,70,11,19,3
+340148,77,5,18,4
+340151,63,19,18,1
+340155,64,11,25,2
+340156,68,7,25,Not Available
+340158,76,9,15,3
+340159,63,15,22,Not Available
+340166,60,19,21,1
+340168,Not Available,Not Available,Not Available,Not Available
+340171,65,12,23,2
+340173,63,15,22,2
+340183,66,11,23,2
+340184,52,24,24,1
+340187,78,8,14,4
+340188,82,3,15,5
+340190,79,4,17,5
+340195,Not Available,Not Available,Not Available,Not Available
+341303,Not Available,Not Available,Not Available,Not Available
+341304,86,2,12,Not Available
+341305,84,3,13,Not Available
+341307,Not Available,Not Available,Not Available,Not Available
+341311,76,4,20,4
+341314,Not Available,Not Available,Not Available,Not Available
+341315,82,3,15,Not Available
+341316,86,4,10,Not Available
+341317,Not Available,Not Available,Not Available,Not Available
+341318,75,9,16,3
+341319,63,14,23,2
+341320,Not Available,Not Available,Not Available,Not Available
+341322,77,8,15,4
+341323,94,3,3,Not Available
+341324,71,12,17,2
+341325,75,6,19,4
+341326,71,12,17,3
+341327,78,5,17,4
+341328,73,8,19,3
+341329,70,11,19,3
+350002,56,18,26,1
+350006,64,13,23,2
+350011,62,14,24,2
+350015,54,18,28,1
+350019,63,12,25,2
+350063,68,17,15,Not Available
+350070,63,13,24,2
+351300,80,10,10,Not Available
+351301,Not Available,Not Available,Not Available,Not Available
+351302,67,19,14,Not Available
+351303,Not Available,Not Available,Not Available,Not Available
+351304,Not Available,Not Available,Not Available,Not Available
+351305,Not Available,Not Available,Not Available,Not Available
+351306,Not Available,Not Available,Not Available,Not Available
+351307,Not Available,Not Available,Not Available,Not Available
+351308,Not Available,Not Available,Not Available,Not Available
+351309,Not Available,Not Available,Not Available,Not Available
+351310,88,2,10,Not Available
+351311,Not Available,Not Available,Not Available,Not Available
+351312,Not Available,Not Available,Not Available,Not Available
+351313,Not Available,Not Available,Not Available,Not Available
+351314,51,39,10,Not Available
+351315,86,2,12,Not Available
+351316,Not Available,Not Available,Not Available,Not Available
+351318,83,8,9,Not Available
+351319,Not Available,Not Available,Not Available,Not Available
+351320,Not Available,Not Available,Not Available,Not Available
+351321,88,0,12,Not Available
+351322,Not Available,Not Available,Not Available,Not Available
+351323,82,3,15,Not Available
+351324,77,5,18,Not Available
+351325,Not Available,Not Available,Not Available,Not Available
+351326,93,0,7,Not Available
+351327,Not Available,Not Available,Not Available,Not Available
+351328,78,5,17,Not Available
+351329,Not Available,Not Available,Not Available,Not Available
+351330,82,6,12,Not Available
+351331,96,0,4,Not Available
+351332,83,10,7,Not Available
+351333,67,15,18,Not Available
+351334,65,17,18,2
+351335,72,9,19,3
+351336,57,19,24,1
+351364,Not Available,Not Available,Not Available,Not Available
+360001,58,20,22,1
+360002,79,5,16,4
+360003,61,14,25,2
+360006,73,10,17,3
+360008,74,9,17,3
+360009,73,8,19,3
+360010,78,6,16,4
+360011,75,7,18,4
+360012,64,12,24,2
+360013,77,7,16,4
+360014,74,7,19,4
+360016,66,12,22,2
+360017,65,11,24,2
+360020,65,12,23,2
+360025,79,4,17,4
+360026,88,1,11,Not Available
+360027,55,18,27,1
+360029,85,4,11,5
+360032,83,5,12,5
+360035,58,20,22,1
+360036,75,8,17,3
+360039,71,9,20,3
+360040,71,7,22,3
+360041,78,5,17,4
+360044,77,6,17,4
+360046,86,4,10,5
+360048,62,14,24,2
+360051,57,20,23,1
+360054,72,7,21,3
+360055,56,16,28,1
+360056,59,17,24,1
+360058,74,6,20,4
+360059,68,8,24,3
+360064,59,18,23,1
+360065,80,5,15,4
+360066,66,12,22,2
+360068,72,9,19,3
+360070,71,10,19,3
+360071,75,7,18,4
+360072,75,8,17,4
+360075,72,9,19,3
+360076,71,10,19,3
+360077,78,6,16,4
+360078,81,4,15,5
+360079,69,10,21,3
+360080,71,10,19,3
+360082,70,9,21,3
+360084,65,11,24,2
+360085,66,13,21,2
+360086,67,11,22,3
+360087,69,11,20,3
+360089,66,13,21,2
+360091,78,6,16,4
+360092,74,6,20,3
+360095,73,8,19,3
+360096,71,12,17,3
+360098,69,10,21,3
+360107,82,6,12,5
+360109,81,7,12,4
+360112,68,12,20,2
+360118,80,5,15,4
+360121,80,3,17,5
+360123,67,12,21,2
+360125,79,6,15,4
+360131,77,5,18,4
+360132,71,7,22,3
+360133,68,12,20,2
+360134,67,14,19,2
+360137,64,13,23,2
+360143,66,10,24,3
+360144,73,8,19,3
+360145,76,7,17,4
+360147,72,8,20,3
+360148,71,6,23,3
+360150,70,11,19,3
+360152,74,9,17,3
+360155,64,15,21,2
+360156,74,8,18,4
+360159,58,20,22,1
+360161,54,16,30,1
+360163,66,11,23,2
+360170,71,8,21,3
+360172,65,13,22,2
+360174,74,7,19,4
+360175,67,15,18,2
+360179,58,20,22,1
+360180,73,7,20,3
+360185,80,5,15,4
+360189,83,3,14,5
+360197,85,4,11,5
+360203,72,10,18,3
+360210,81,5,14,5
+360211,58,16,26,1
+360218,70,10,20,3
+360230,70,9,21,3
+360234,70,10,20,3
+360236,65,12,23,2
+360239,69,8,23,3
+360245,Not Available,Not Available,Not Available,Not Available
+360247,Not Available,Not Available,Not Available,Not Available
+360259,68,10,22,3
+360263,83,4,13,5
+360266,78,7,15,4
+360270,85,3,12,5
+360276,70,11,19,3
+360348,71,10,19,3
+360351,76,12,12,3
+360352,83,3,14,5
+360354,64,13,23,2
+360355,87,4,9,Not Available
+360358,73,10,17,Not Available
+360359,62,15,23,2
+360360,75,8,17,4
+360361,Not Available,Not Available,Not Available,Not Available
+360364,77,6,17,4
+360365,79,6,15,4
+360367,75,5,20,4
+360368,81,5,14,5
+361300,78,4,18,Not Available
+361301,89,7,4,Not Available
+361302,Not Available,Not Available,Not Available,Not Available
+361303,82,5,13,5
+361304,Not Available,Not Available,Not Available,Not Available
+361306,75,8,17,4
+361307,87,2,11,5
+361308,91,1,8,Not Available
+361309,80,3,17,Not Available
+361310,87,4,9,Not Available
+361311,82,8,10,Not Available
+361312,84,6,10,Not Available
+361313,Not Available,Not Available,Not Available,Not Available
+361314,63,14,23,Not Available
+361315,Not Available,Not Available,Not Available,Not Available
+361316,73,6,21,Not Available
+361318,73,8,19,3
+361319,84,6,10,5
+361320,82,6,12,Not Available
+361321,92,3,5,Not Available
+361322,79,1,20,Not Available
+361323,75,5,20,4
+361324,Not Available,Not Available,Not Available,Not Available
+361325,75,5,20,4
+361326,73,11,16,Not Available
+361327,Not Available,Not Available,Not Available,Not Available
+361328,80,5,15,4
+361329,84,3,13,5
+361330,70,4,26,Not Available
+361331,72,5,23,Not Available
+361332,83,4,13,5
+361333,84,4,12,5
+361334,74,5,21,Not Available
+363300,Not Available,Not Available,Not Available,Not Available
+363302,Not Available,Not Available,Not Available,Not Available
+363303,Not Available,Not Available,Not Available,Not Available
+363304,Not Available,Not Available,Not Available,Not Available
+363305,Not Available,Not Available,Not Available,Not Available
+363306,Not Available,Not Available,Not Available,Not Available
+363308,Not Available,Not Available,Not Available,Not Available
+363309,Not Available,Not Available,Not Available,Not Available
+370001,63,14,23,2
+370002,60,21,19,1
+370004,81,3,16,5
+370006,76,7,17,4
+370008,63,13,24,2
+370013,62,13,25,2
+370014,60,21,19,1
+370015,85,0,15,Not Available
+370016,72,7,21,3
+370018,84,3,13,5
+370019,71,11,18,3
+370020,60,17,23,1
+370022,74,7,19,3
+370023,73,9,18,3
+370025,73,10,17,3
+370026,74,8,18,3
+370028,74,9,17,3
+370034,74,8,18,3
+370037,70,11,19,3
+370039,63,14,23,2
+370041,Not Available,Not Available,Not Available,Not Available
+370047,65,15,20,2
+370049,70,11,19,3
+370054,73,10,17,3
+370056,58,19,23,1
+370057,78,3,19,Not Available
+370078,62,14,24,2
+370083,48,26,26,Not Available
+370089,62,19,19,1
+370091,74,7,19,3
+370093,61,19,20,1
+370094,60,20,20,1
+370097,70,10,20,3
+370099,83,3,14,Not Available
+370100,90,1,9,Not Available
+370106,67,13,20,2
+370112,67,6,27,Not Available
+370113,73,7,20,3
+370114,68,11,21,3
+370149,78,8,14,4
+370153,72,11,17,Not Available
+370158,76,12,12,Not Available
+370166,77,5,18,Not Available
+370170,89,0,11,Not Available
+370171,65,15,20,2
+370172,86,2,12,5
+370173,87,3,10,5
+370178,72,10,18,Not Available
+370180,76,7,17,4
+370183,76,7,17,Not Available
+370192,88,7,5,Not Available
+370199,73,9,18,3
+370201,75,9,16,3
+370202,65,13,22,2
+370203,73,12,15,3
+370206,75,10,15,3
+370210,82,7,11,4
+370211,71,9,20,3
+370212,81,8,11,Not Available
+370214,Not Available,Not Available,Not Available,Not Available
+370215,86,4,10,5
+370216,86,5,9,5
+370218,81,5,14,4
+370220,87,5,8,5
+370222,83,5,12,5
+370225,78,4,18,Not Available
+370227,68,9,23,3
+370228,83,5,12,5
+370234,85,4,11,5
+370235,75,7,18,4
+370236,73,9,18,3
+370237,83,2,15,5
+370240,65,29,6,Not Available
+370243,Not Available,Not Available,Not Available,Not Available
+370244,Not Available,Not Available,Not Available,Not Available
+370245,Not Available,Not Available,Not Available,Not Available
+371300,Not Available,Not Available,Not Available,Not Available
+371301,Not Available,Not Available,Not Available,Not Available
+371302,83,5,12,Not Available
+371303,89,1,10,Not Available
+371304,92,3,5,Not Available
+371305,Not Available,Not Available,Not Available,Not Available
+371306,82,6,12,Not Available
+371307,Not Available,Not Available,Not Available,Not Available
+371309,86,6,8,Not Available
+371310,81,5,14,Not Available
+371311,Not Available,Not Available,Not Available,Not Available
+371312,Not Available,Not Available,Not Available,Not Available
+371313,95,0,5,Not Available
+371314,79,3,18,Not Available
+371316,90,0,10,Not Available
+371317,73,9,18,Not Available
+371318,91,4,5,Not Available
+371319,Not Available,Not Available,Not Available,Not Available
+371320,Not Available,Not Available,Not Available,Not Available
+371321,90,1,9,Not Available
+371322,Not Available,Not Available,Not Available,Not Available
+371323,76,7,17,Not Available
+371325,Not Available,Not Available,Not Available,Not Available
+371326,82,6,12,Not Available
+371327,Not Available,Not Available,Not Available,Not Available
+371328,99,0,1,Not Available
+371329,Not Available,Not Available,Not Available,Not Available
+371330,Not Available,Not Available,Not Available,Not Available
+371331,Not Available,Not Available,Not Available,Not Available
+371332,Not Available,Not Available,Not Available,Not Available
+371333,Not Available,Not Available,Not Available,Not Available
+371334,81,0,19,Not Available
+371335,Not Available,Not Available,Not Available,Not Available
+371336,Not Available,Not Available,Not Available,Not Available
+371337,73,6,21,Not Available
+371338,Not Available,Not Available,Not Available,Not Available
+371340,Not Available,Not Available,Not Available,Not Available
+371341,Not Available,Not Available,Not Available,Not Available
+371342,82,3,15,Not Available
+373300,Not Available,Not Available,Not Available,Not Available
+373303,Not Available,Not Available,Not Available,Not Available
+380001,67,10,23,3
+380002,77,7,16,4
+380004,70,9,21,3
+380005,76,6,18,4
+380007,73,8,19,3
+380009,58,17,25,1
+380014,64,12,24,2
+380017,80,6,14,4
+380018,72,8,20,3
+380020,67,13,20,2
+380021,59,17,24,1
+380022,82,4,14,5
+380025,67,11,22,3
+380027,67,13,20,2
+380029,80,4,16,4
+380033,Not Available,Not Available,Not Available,Not Available
+380037,71,10,19,3
+380038,61,16,23,2
+380047,71,8,21,3
+380050,76,7,17,4
+380051,69,10,21,3
+380052,78,4,18,4
+380056,74,5,21,4
+380060,72,8,20,3
+380061,66,11,23,2
+380071,69,11,20,2
+380075,69,10,21,3
+380082,72,10,18,3
+380089,69,12,19,2
+380090,72,8,20,3
+380091,63,14,23,2
+380102,74,8,18,3
+380103,67,11,22,2
+381301,84,0,16,Not Available
+381302,81,8,11,4
+381303,65,14,21,2
+381304,84,0,16,Not Available
+381305,73,11,16,Not Available
+381306,71,6,23,Not Available
+381307,73,12,15,Not Available
+381308,Not Available,Not Available,Not Available,Not Available
+381309,85,5,10,Not Available
+381310,Not Available,Not Available,Not Available,Not Available
+381311,72,14,14,Not Available
+381312,77,11,12,Not Available
+381313,81,9,10,4
+381314,80,5,15,4
+381315,71,11,18,Not Available
+381316,76,5,19,4
+381317,74,8,18,3
+381318,78,4,18,4
+381319,76,5,19,4
+381320,77,9,14,3
+381321,78,7,15,4
+381322,84,5,11,Not Available
+381323,82,4,14,5
+381324,72,7,21,Not Available
+381325,79,4,17,5
+383300,Not Available,Not Available,Not Available,Not Available
+390001,67,11,22,3
+390002,67,14,19,2
+390003,83,3,14,5
+390004,62,12,26,2
+390006,75,7,18,4
+390009,69,6,25,3
+390012,58,15,27,1
+390013,87,3,10,5
+390016,73,7,20,3
+390025,Not Available,Not Available,Not Available,Not Available
+390026,62,17,21,2
+390027,65,12,23,2
+390028,68,11,21,3
+390030,76,7,17,4
+390032,79,7,14,4
+390035,79,6,15,4
+390036,76,6,18,4
+390037,71,8,21,3
+390039,83,3,14,5
+390041,64,15,21,2
+390042,76,8,16,3
+390044,73,9,18,3
+390045,77,7,16,4
+390046,63,12,25,2
+390048,75,6,19,4
+390049,76,6,18,4
+390050,73,9,18,3
+390056,75,8,17,4
+390057,77,8,15,4
+390058,71,9,20,3
+390062,76,7,17,4
+390063,69,11,20,3
+390065,71,8,21,3
+390066,71,9,20,3
+390067,78,6,16,4
+390068,65,12,23,2
+390070,70,12,18,3
+390073,66,13,21,2
+390079,68,11,21,3
+390081,Not Available,Not Available,Not Available,Not Available
+390086,61,15,24,2
+390090,75,8,17,3
+390091,81,5,14,5
+390093,75,11,14,3
+390096,65,12,23,2
+390097,61,17,22,1
+390100,70,12,18,3
+390101,74,8,18,3
+390102,71,10,19,3
+390104,87,7,6,Not Available
+390107,71,9,20,3
+390110,59,18,23,1
+390111,74,6,20,4
+390112,83,3,14,5
+390113,65,9,26,2
+390114,69,11,20,3
+390115,61,16,23,2
+390116,68,15,17,2
+390117,82,3,15,5
+390123,73,7,20,3
+390125,82,4,14,5
+390127,75,7,18,4
+390133,69,11,20,3
+390137,64,15,21,2
+390138,81,3,16,5
+390139,65,13,22,2
+390142,59,17,24,1
+390145,59,14,27,2
+390146,70,7,23,3
+390147,56,25,19,1
+390150,82,9,9,Not Available
+390151,71,10,19,3
+390153,70,10,20,3
+390156,60,16,24,2
+390157,Not Available,Not Available,Not Available,Not Available
+390160,67,10,23,3
+390162,72,9,19,3
+390163,59,19,22,1
+390164,68,10,22,3
+390168,72,7,21,3
+390173,77,6,17,4
+390174,60,17,23,1
+390178,73,10,17,3
+390179,74,9,17,3
+390180,68,13,19,2
+390183,81,5,14,4
+390184,59,22,19,Not Available
+390185,71,10,19,3
+390195,69,11,20,3
+390198,55,19,26,Not Available
+390199,75,7,18,4
+390201,72,10,18,3
+390203,69,11,20,3
+390204,57,23,20,1
+390211,66,13,21,2
+390217,67,8,25,3
+390219,57,20,23,1
+390222,66,13,21,2
+390223,68,12,20,3
+390225,67,12,21,2
+390226,73,9,18,3
+390228,68,9,23,3
+390231,52,22,26,1
+390233,79,7,14,4
+390237,58,18,24,1
+390256,65,11,24,2
+390258,58,19,23,1
+390265,72,7,21,3
+390266,90,5,5,5
+390267,65,10,25,2
+390268,70,11,19,3
+390270,62,17,21,2
+390272,Not Available,Not Available,Not Available,Not Available
+390278,Not Available,Not Available,Not Available,Not Available
+390304,69,12,19,3
+390307,89,3,8,Not Available
+390316,83,9,8,4
+390322,85,7,8,5
+390323,89,5,6,5
+390324,84,5,11,5
+390325,87,4,9,5
+390326,75,8,17,4
+390327,82,1,17,Not Available
+390328,74,9,17,3
+390329,75,8,17,3
+390330,76,8,16,4
+390331,72,8,20,Not Available
+390332,87,3,10,5
+390333,87,10,3,Not Available
+390334,86,3,11,5
+390335,87,3,10,5
+390336,72,9,19,3
+390337,85,2,13,5
+390338,82,5,13,5
+390339,78,7,15,4
+391300,84,6,10,5
+391301,86,4,10,5
+391302,96,2,2,Not Available
+391303,86,1,13,Not Available
+391304,Not Available,Not Available,Not Available,Not Available
+391305,80,10,10,4
+391306,78,5,17,Not Available
+391307,73,10,17,Not Available
+391308,84,12,4,Not Available
+391309,78,7,15,Not Available
+391312,66,7,27,Not Available
+391313,88,2,10,5
+391314,82,3,15,5
+391315,79,7,14,4
+391316,92,1,7,5
+391317,87,1,12,5
+393302,Not Available,Not Available,Not Available,Not Available
+393303,Not Available,Not Available,Not Available,Not Available
+393304,Not Available,Not Available,Not Available,Not Available
+393307,Not Available,Not Available,Not Available,Not Available
+393309,Not Available,Not Available,Not Available,Not Available
+400001,Not Available,Not Available,Not Available,Not Available
+400003,Not Available,Not Available,Not Available,Not Available
+400004,Not Available,Not Available,Not Available,Not Available
+400005,Not Available,Not Available,Not Available,Not Available
+400006,74,10,16,3
+400007,Not Available,Not Available,Not Available,Not Available
+400010,Not Available,Not Available,Not Available,Not Available
+400011,Not Available,Not Available,Not Available,Not Available
+400012,Not Available,Not Available,Not Available,Not Available
+400013,Not Available,Not Available,Not Available,Not Available
+400014,Not Available,Not Available,Not Available,Not Available
+400015,Not Available,Not Available,Not Available,Not Available
+400016,Not Available,Not Available,Not Available,Not Available
+400018,Not Available,Not Available,Not Available,Not Available
+400019,Not Available,Not Available,Not Available,Not Available
+400021,Not Available,Not Available,Not Available,Not Available
+400022,70,10,20,3
+400032,58,19,23,1
+400044,Not Available,Not Available,Not Available,Not Available
+400048,Not Available,Not Available,Not Available,Not Available
+400061,Not Available,Not Available,Not Available,Not Available
+400079,Not Available,Not Available,Not Available,Not Available
+400087,Not Available,Not Available,Not Available,Not Available
+400098,Not Available,Not Available,Not Available,Not Available
+400102,64,13,23,2
+400103,54,17,29,1
+400104,Not Available,Not Available,Not Available,Not Available
+400105,Not Available,Not Available,Not Available,Not Available
+400106,Not Available,Not Available,Not Available,Not Available
+400109,67,15,18,2
+400110,Not Available,Not Available,Not Available,Not Available
+400111,Not Available,Not Available,Not Available,Not Available
+400112,Not Available,Not Available,Not Available,Not Available
+400113,Not Available,Not Available,Not Available,Not Available
+400114,75,9,16,3
+400115,Not Available,Not Available,Not Available,Not Available
+400117,Not Available,Not Available,Not Available,Not Available
+400118,76,7,17,4
+400120,66,14,20,2
+400122,Not Available,Not Available,Not Available,Not Available
+400123,Not Available,Not Available,Not Available,Not Available
+400124,Not Available,Not Available,Not Available,Not Available
+400126,Not Available,Not Available,Not Available,Not Available
+400127,Not Available,Not Available,Not Available,Not Available
+400128,Not Available,Not Available,Not Available,Not Available
+400130,Not Available,Not Available,Not Available,Not Available
+400131,Not Available,Not Available,Not Available,Not Available
+400132,79,7,14,4
+400134,Not Available,Not Available,Not Available,Not Available
+400135,Not Available,Not Available,Not Available,Not Available
+400136,Not Available,Not Available,Not Available,Not Available
+400137,Not Available,Not Available,Not Available,Not Available
+400138,Not Available,Not Available,Not Available,Not Available
+403301,Not Available,Not Available,Not Available,Not Available
+410004,73,9,18,3
+410005,74,9,17,3
+410006,74,7,19,3
+410007,73,8,19,3
+410008,73,10,17,3
+410009,71,8,21,3
+410010,79,3,18,5
+410011,70,10,20,3
+410012,69,10,21,3
+410013,81,4,15,5
+420002,50,27,23,1
+420004,62,16,22,2
+420005,74,7,19,3
+420007,65,13,22,2
+420009,60,16,24,2
+420010,74,8,18,3
+420011,75,7,18,Not Available
+420015,65,14,21,2
+420018,63,15,22,2
+420019,50,21,29,Not Available
+420020,64,16,20,2
+420023,64,15,21,2
+420026,70,13,17,2
+420027,70,9,21,3
+420030,64,11,25,2
+420033,66,12,22,2
+420036,56,19,25,1
+420037,69,11,20,3
+420038,61,17,22,2
+420043,75,11,14,Not Available
+420048,61,17,22,2
+420049,76,8,16,4
+420051,68,10,22,3
+420053,80,7,13,4
+420055,76,10,14,3
+420065,72,10,18,3
+420067,70,11,19,3
+420070,65,12,23,2
+420071,73,7,20,3
+420072,88,7,5,Not Available
+420073,74,8,18,3
+420078,54,20,26,1
+420079,62,14,24,2
+420080,51,23,26,1
+420082,66,12,22,2
+420085,64,14,22,2
+420086,70,11,19,3
+420087,62,15,23,2
+420089,68,10,22,3
+420091,69,11,20,3
+420098,59,17,24,1
+420101,58,21,21,1
+420102,71,9,20,3
+420103,80,6,14,4
+420104,65,15,20,2
+420105,70,9,21,3
+420106,64,16,20,2
+420107,69,9,22,3
+420108,86,4,10,Not Available
+420109,73,9,18,3
+420110,68,13,19,2
+421300,86,5,9,Not Available
+421301,78,6,16,Not Available
+421304,Not Available,Not Available,Not Available,Not Available
+423300,Not Available,Not Available,Not Available,Not Available
+430005,71,10,19,3
+430008,74,8,18,3
+430012,68,9,23,3
+430014,73,8,19,3
+430015,68,11,21,3
+430016,61,13,26,2
+430027,62,13,25,2
+430048,78,5,17,4
+430077,70,8,22,3
+430084,64,27,9,Not Available
+430089,81,7,12,4
+430090,84,5,11,5
+430091,89,4,7,5
+430093,Not Available,Not Available,Not Available,Not Available
+430095,82,4,14,5
+430097,64,14,22,2
+430098,60,20,20,Not Available
+431300,81,5,14,5
+431301,80,3,17,Not Available
+431302,Not Available,Not Available,Not Available,Not Available
+431305,91,1,8,Not Available
+431306,86,7,7,Not Available
+431307,Not Available,Not Available,Not Available,Not Available
+431308,Not Available,Not Available,Not Available,Not Available
+431309,90,2,8,Not Available
+431310,Not Available,Not Available,Not Available,Not Available
+431311,Not Available,Not Available,Not Available,Not Available
+431312,66,9,25,Not Available
+431313,79,0,21,Not Available
+431314,Not Available,Not Available,Not Available,Not Available
+431315,Not Available,Not Available,Not Available,Not Available
+431316,85,1,14,Not Available
+431317,Not Available,Not Available,Not Available,Not Available
+431318,Not Available,Not Available,Not Available,Not Available
+431319,89,2,9,Not Available
+431320,73,4,23,Not Available
+431321,86,2,12,Not Available
+431322,88,7,5,Not Available
+431323,82,2,16,Not Available
+431324,Not Available,Not Available,Not Available,Not Available
+431325,74,4,22,Not Available
+431326,87,2,11,Not Available
+431327,Not Available,Not Available,Not Available,Not Available
+431328,Not Available,Not Available,Not Available,Not Available
+431329,51,25,24,Not Available
+431330,72,8,20,Not Available
+431331,86,3,11,Not Available
+431332,Not Available,Not Available,Not Available,Not Available
+431333,Not Available,Not Available,Not Available,Not Available
+431334,57,9,34,Not Available
+431335,56,18,26,1
+431336,81,11,8,Not Available
+431337,81,4,15,Not Available
+431338,78,2,20,Not Available
+431339,Not Available,Not Available,Not Available,Not Available
+431340,72,8,20,3
+431383,Not Available,Not Available,Not Available,Not Available
+433300,Not Available,Not Available,Not Available,Not Available
+440001,85,3,12,Not Available
+440002,68,12,20,3
+440003,60,17,23,1
+440006,74,9,17,3
+440007,87,0,13,5
+440008,74,5,21,4
+440009,71,8,21,3
+440010,79,1,20,Not Available
+440011,64,16,20,2
+440012,62,19,19,1
+440015,69,12,19,3
+440016,76,6,18,Not Available
+440017,68,12,20,2
+440018,69,11,20,3
+440020,78,6,16,4
+440029,65,11,24,2
+440030,67,14,19,2
+440031,73,9,18,3
+440032,85,8,7,Not Available
+440033,77,10,13,3
+440034,74,9,17,3
+440035,59,17,24,1
+440039,61,15,24,2
+440046,77,6,17,4
+440048,64,16,20,2
+440049,61,16,23,2
+440050,65,16,19,2
+440053,67,12,21,2
+440056,63,16,21,2
+440057,83,5,12,5
+440058,74,8,18,3
+440059,63,14,23,2
+440060,88,1,11,Not Available
+440061,86,8,6,5
+440063,58,19,23,1
+440065,76,8,16,3
+440068,74,7,19,4
+440072,64,13,23,2
+440073,71,8,21,3
+440081,72,9,19,3
+440082,59,16,25,2
+440084,69,10,21,3
+440091,65,14,21,2
+440102,90,4,6,5
+440104,57,21,22,1
+440109,71,10,19,3
+440110,70,9,21,3
+440111,73,11,16,Not Available
+440120,70,11,19,3
+440125,72,10,18,3
+440130,80,4,16,5
+440131,73,10,17,3
+440132,80,5,15,4
+440137,78,10,12,3
+440144,74,9,17,3
+440148,85,1,14,Not Available
+440150,70,10,20,3
+440151,75,6,19,4
+440152,62,20,18,1
+440153,74,10,16,3
+440156,66,13,21,2
+440159,Not Available,Not Available,Not Available,Not Available
+440161,67,14,19,2
+440173,65,14,21,2
+440175,68,12,20,3
+440176,72,11,17,3
+440183,55,23,22,1
+440184,62,15,23,2
+440185,56,21,23,1
+440187,74,6,20,4
+440192,85,2,13,5
+440193,67,11,22,3
+440194,71,12,17,3
+440197,73,8,19,3
+440200,78,1,21,Not Available
+440218,74,11,15,3
+440227,71,9,20,3
+440228,48,30,22,1
+440231,Not Available,Not Available,Not Available,Not Available
+440238,Not Available,Not Available,Not Available,Not Available
+440239,Not Available,Not Available,Not Available,Not Available
+441300,Not Available,Not Available,Not Available,Not Available
+441301,93,5,2,Not Available
+441303,77,8,15,Not Available
+441304,Not Available,Not Available,Not Available,Not Available
+441305,78,6,16,4
+441306,82,3,15,Not Available
+441307,71,9,20,3
+441309,65,8,27,Not Available
+441310,73,10,17,Not Available
+441313,Not Available,Not Available,Not Available,Not Available
+441314,Not Available,Not Available,Not Available,Not Available
+441316,Not Available,Not Available,Not Available,Not Available
+441320,Not Available,Not Available,Not Available,Not Available
+441322,Not Available,Not Available,Not Available,Not Available
+441323,Not Available,Not Available,Not Available,Not Available
+443302,Not Available,Not Available,Not Available,Not Available
+443303,Not Available,Not Available,Not Available,Not Available
+450002,56,24,20,1
+450007,82,4,14,5
+450010,72,8,20,3
+450011,65,14,21,2
+450015,75,7,18,4
+450018,77,8,15,4
+450021,66,12,22,2
+450023,73,8,19,3
+450024,72,9,19,3
+450028,75,10,15,3
+450029,74,8,18,3
+450032,74,10,16,3
+450033,68,12,20,2
+450034,69,12,19,2
+450035,72,12,16,3
+450039,64,13,23,2
+450040,62,15,23,2
+450042,73,9,18,3
+450044,69,10,21,3
+450046,76,10,14,3
+450051,78,7,15,4
+450054,66,11,23,2
+450055,94,1,5,Not Available
+450056,62,14,24,2
+450058,66,15,19,2
+450064,77,6,17,4
+450068,73,9,18,3
+450072,71,10,19,3
+450079,73,9,18,3
+450080,77,7,16,4
+450082,81,5,14,4
+450083,59,19,22,1
+450087,73,10,17,3
+450090,75,7,18,4
+450092,73,11,16,3
+450097,72,8,20,3
+450101,76,7,17,4
+450102,68,12,20,2
+450104,86,2,12,5
+450107,70,11,19,3
+450108,82,4,14,Not Available
+450119,70,11,19,3
+450124,81,7,12,4
+450128,74,11,15,3
+450132,65,14,21,2
+450133,59,17,24,1
+450135,67,12,21,2
+450137,63,15,22,2
+450143,88,2,10,Not Available
+450144,83,1,16,5
+450147,71,8,21,3
+450148,69,12,19,3
+450152,73,8,19,3
+450154,75,11,14,3
+450155,81,0,19,Not Available
+450162,80,9,11,Not Available
+450163,76,12,12,3
+450165,85,8,7,5
+450176,77,6,17,4
+450184,72,10,18,3
+450193,60,13,27,2
+450194,64,14,22,2
+450196,65,14,21,2
+450200,71,9,20,3
+450203,66,14,20,2
+450209,56,21,23,1
+450210,79,5,16,Not Available
+450211,74,9,17,3
+450213,69,11,20,3
+450222,68,13,19,2
+450229,67,13,20,2
+450231,69,10,21,3
+450235,74,0,26,Not Available
+450236,79,6,15,4
+450237,76,6,18,4
+450241,83,5,12,Not Available
+450253,Not Available,Not Available,Not Available,Not Available
+450271,Not Available,Not Available,Not Available,Not Available
+450272,80,6,14,4
+450289,70,10,20,3
+450292,80,3,17,5
+450324,67,14,19,2
+450330,67,17,16,2
+450346,67,13,20,2
+450347,72,8,20,3
+450351,81,2,17,5
+450352,71,10,19,3
+450358,73,9,18,3
+450369,90,3,7,Not Available
+450370,68,12,20,2
+450372,81,4,15,5
+450379,69,14,17,2
+450388,70,10,20,3
+450389,69,12,19,3
+450395,77,8,15,4
+450399,72,8,20,Not Available
+450400,77,13,10,Not Available
+450403,75,7,18,4
+450411,82,4,14,Not Available
+450419,73,9,18,3
+450422,72,9,19,Not Available
+450424,79,5,16,4
+450431,75,8,17,4
+450447,64,14,22,2
+450451,83,2,15,Not Available
+450460,Not Available,Not Available,Not Available,Not Available
+450462,70,10,20,3
+450465,86,3,11,5
+450469,Not Available,Not Available,Not Available,Not Available
+450475,70,8,22,Not Available
+450484,68,13,19,2
+450489,82,5,13,Not Available
+450498,Not Available,Not Available,Not Available,Not Available
+450508,54,24,22,1
+450518,71,12,17,3
+450537,81,5,14,5
+450539,70,11,19,3
+450563,72,9,19,3
+450565,85,4,11,5
+450571,68,12,20,2
+450573,87,3,10,Not Available
+450584,84,3,13,Not Available
+450587,63,15,22,2
+450596,75,8,17,3
+450597,75,2,23,Not Available
+450604,74,8,18,3
+450610,69,10,21,3
+450617,77,7,16,4
+450634,76,7,17,4
+450638,68,12,20,2
+450639,63,17,20,2
+450641,84,1,15,Not Available
+450643,71,15,14,2
+450644,70,9,21,3
+450647,75,9,16,3
+450651,73,9,18,3
+450653,75,8,17,Not Available
+450654,74,6,20,Not Available
+450656,63,14,23,2
+450658,84,7,9,Not Available
+450659,72,10,18,3
+450661,68,12,20,2
+450662,77,8,15,4
+450668,63,15,22,2
+450669,73,10,17,3
+450670,76,9,15,3
+450672,71,11,18,3
+450674,69,11,20,3
+450675,61,22,17,1
+450677,79,6,15,4
+450678,61,19,20,1
+450684,69,11,20,3
+450686,74,9,17,3
+450688,64,16,20,2
+450690,73,5,22,3
+450694,70,14,16,2
+450698,93,7,0,Not Available
+450702,62,16,22,2
+450709,75,6,19,4
+450711,66,13,21,2
+450713,74,8,18,3
+450718,73,8,19,3
+450723,78,6,16,4
+450730,68,11,21,2
+450742,68,14,18,2
+450743,73,8,19,3
+450747,57,18,25,1
+450755,86,1,13,Not Available
+450771,65,11,24,2
+450774,77,9,14,3
+450775,70,10,20,3
+450779,70,10,20,3
+450788,74,10,16,3
+450801,75,8,17,4
+450804,85,4,11,5
+450808,84,7,9,5
+450809,73,9,18,3
+450820,77,6,17,4
+450822,66,15,19,2
+450825,88,5,7,Not Available
+450827,81,6,13,5
+450828,79,6,15,4
+450831,Not Available,Not Available,Not Available,Not Available
+450833,89,2,9,Not Available
+450834,86,6,8,5
+450840,74,7,19,4
+450844,75,8,17,4
+450847,71,12,17,3
+450848,72,8,20,3
+450851,79,6,15,4
+450853,77,7,16,4
+450855,79,6,15,4
+450856,79,8,13,4
+450860,80,5,15,Not Available
+450862,72,10,18,3
+450864,77,9,14,3
+450865,87,4,9,Not Available
+450867,81,5,14,4
+450869,73,8,19,3
+450871,Not Available,Not Available,Not Available,Not Available
+450872,84,6,10,Not Available
+450874,74,12,14,3
+450875,87,5,8,5
+450876,75,7,18,4
+450880,80,8,12,4
+450883,70,11,19,Not Available
+450885,75,7,18,4
+450888,87,6,7,Not Available
+450889,87,3,10,5
+450890,78,6,16,4
+450891,85,6,9,5
+450893,85,4,11,5
+451300,Not Available,Not Available,Not Available,Not Available
+451301,Not Available,Not Available,Not Available,Not Available
+451303,84,1,15,Not Available
+451304,Not Available,Not Available,Not Available,Not Available
+451305,Not Available,Not Available,Not Available,Not Available
+451306,Not Available,Not Available,Not Available,Not Available
+451307,Not Available,Not Available,Not Available,Not Available
+451308,91,4,5,Not Available
+451309,Not Available,Not Available,Not Available,Not Available
+451310,Not Available,Not Available,Not Available,Not Available
+451311,68,6,26,Not Available
+451312,Not Available,Not Available,Not Available,Not Available
+451313,Not Available,Not Available,Not Available,Not Available
+451314,Not Available,Not Available,Not Available,Not Available
+451315,89,0,11,Not Available
+451316,Not Available,Not Available,Not Available,Not Available
+451317,Not Available,Not Available,Not Available,Not Available
+451318,Not Available,Not Available,Not Available,Not Available
+451319,79,6,15,4
+451320,Not Available,Not Available,Not Available,Not Available
+451322,Not Available,Not Available,Not Available,Not Available
+451323,74,6,20,Not Available
+451324,Not Available,Not Available,Not Available,Not Available
+451325,Not Available,Not Available,Not Available,Not Available
+451328,Not Available,Not Available,Not Available,Not Available
+451329,Not Available,Not Available,Not Available,Not Available
+451330,87,3,10,Not Available
+451331,Not Available,Not Available,Not Available,Not Available
+451332,Not Available,Not Available,Not Available,Not Available
+451333,Not Available,Not Available,Not Available,Not Available
+451334,Not Available,Not Available,Not Available,Not Available
+451335,Not Available,Not Available,Not Available,Not Available
+451337,Not Available,Not Available,Not Available,Not Available
+451338,Not Available,Not Available,Not Available,Not Available
+451339,Not Available,Not Available,Not Available,Not Available
+451340,Not Available,Not Available,Not Available,Not Available
+451341,Not Available,Not Available,Not Available,Not Available
+451342,87,4,9,Not Available
+451343,98,0,2,Not Available
+451344,Not Available,Not Available,Not Available,Not Available
+451346,84,0,16,Not Available
+451347,88,1,11,Not Available
+451348,Not Available,Not Available,Not Available,Not Available
+451349,Not Available,Not Available,Not Available,Not Available
+451350,Not Available,Not Available,Not Available,Not Available
+451351,96,0,4,Not Available
+451352,Not Available,Not Available,Not Available,Not Available
+451353,Not Available,Not Available,Not Available,Not Available
+451354,Not Available,Not Available,Not Available,Not Available
+451355,Not Available,Not Available,Not Available,Not Available
+451356,91,0,9,Not Available
+451358,Not Available,Not Available,Not Available,Not Available
+451359,93,1,6,Not Available
+451361,Not Available,Not Available,Not Available,Not Available
+451362,Not Available,Not Available,Not Available,Not Available
+451363,Not Available,Not Available,Not Available,Not Available
+451364,Not Available,Not Available,Not Available,Not Available
+451365,Not Available,Not Available,Not Available,Not Available
+451366,Not Available,Not Available,Not Available,Not Available
+451367,79,3,18,Not Available
+451369,71,4,25,Not Available
+451370,90,1,9,Not Available
+451371,Not Available,Not Available,Not Available,Not Available
+451372,Not Available,Not Available,Not Available,Not Available
+451373,78,6,16,Not Available
+451374,93,2,5,Not Available
+451375,86,4,10,Not Available
+451376,89,2,9,Not Available
+451377,86,3,11,Not Available
+451378,79,6,15,Not Available
+451379,75,11,14,3
+451380,83,7,10,Not Available
+451381,Not Available,Not Available,Not Available,Not Available
+451382,91,0,9,Not Available
+451384,Not Available,Not Available,Not Available,Not Available
+451385,77,5,18,Not Available
+451386,87,3,10,Not Available
+451387,86,3,11,5
+451389,Not Available,Not Available,Not Available,Not Available
+451390,Not Available,Not Available,Not Available,Not Available
+451391,84,4,12,Not Available
+451392,86,1,13,Not Available
+451393,Not Available,Not Available,Not Available,Not Available
+451394,Not Available,Not Available,Not Available,Not Available
+451395,74,9,17,3
+451396,Not Available,Not Available,Not Available,Not Available
+451397,Not Available,Not Available,Not Available,Not Available
+451398,Not Available,Not Available,Not Available,Not Available
+451399,Not Available,Not Available,Not Available,Not Available
+453300,Not Available,Not Available,Not Available,Not Available
+453301,Not Available,Not Available,Not Available,Not Available
+453302,Not Available,Not Available,Not Available,Not Available
+453304,Not Available,Not Available,Not Available,Not Available
+453306,Not Available,Not Available,Not Available,Not Available
+453309,Not Available,Not Available,Not Available,Not Available
+453310,Not Available,Not Available,Not Available,Not Available
+453311,Not Available,Not Available,Not Available,Not Available
+453313,Not Available,Not Available,Not Available,Not Available
+453314,Not Available,Not Available,Not Available,Not Available
+453315,Not Available,Not Available,Not Available,Not Available
+453316,Not Available,Not Available,Not Available,Not Available
+453317,Not Available,Not Available,Not Available,Not Available
+460001,81,5,14,5
+460003,68,15,17,2
+460004,72,9,19,3
+460005,61,17,22,1
+460006,80,5,15,4
+460007,82,4,14,5
+460009,76,6,18,4
+460010,79,5,16,4
+460011,61,15,24,2
+460013,81,4,15,5
+460014,69,9,22,3
+460015,73,7,20,3
+460017,87,4,9,5
+460019,71,7,22,3
+460021,79,6,15,4
+460023,73,8,19,3
+460026,90,4,6,5
+460030,71,9,20,3
+460039,78,5,17,Not Available
+460041,68,12,20,3
+460042,78,5,17,4
+460043,85,3,12,Not Available
+460044,80,5,15,5
+460047,72,8,20,3
+460049,71,13,16,Not Available
+460051,69,10,21,3
+460052,67,11,22,3
+460054,74,8,18,Not Available
+460057,81,5,14,5
+460058,84,2,14,5
+460060,81,6,13,4
+460061,74,7,19,3
+460062,78,5,17,4
+461300,85,0,15,Not Available
+461301,82,9,9,Not Available
+461302,59,8,33,Not Available
+461303,83,1,16,Not Available
+461304,80,5,15,4
+461305,Not Available,Not Available,Not Available,Not Available
+461306,80,2,18,Not Available
+461307,80,8,12,4
+461308,83,2,15,Not Available
+461309,Not Available,Not Available,Not Available,Not Available
+461310,Not Available,Not Available,Not Available,Not Available
+461333,96,1,3,Not Available
+461335,Not Available,Not Available,Not Available,Not Available
+463301,Not Available,Not Available,Not Available,Not Available
+470001,77,6,17,4
+470003,69,10,21,3
+470005,74,8,18,3
+470011,79,7,14,4
+470012,71,7,22,3
+470024,60,20,20,1
+471300,Not Available,Not Available,Not Available,Not Available
+471301,79,3,18,5
+471302,92,1,7,5
+471303,80,6,14,4
+471304,80,5,15,4
+471305,75,9,16,3
+471306,84,4,12,Not Available
+471307,59,11,30,2
+480001,65,14,21,2
+480002,81,11,8,4
+490002,72,7,21,3
+490004,69,12,19,2
+490005,76,9,15,3
+490007,65,12,23,2
+490009,70,9,21,3
+490013,75,5,20,4
+490017,64,14,22,2
+490018,70,12,18,3
+490019,64,12,24,2
+490020,65,10,25,2
+490021,65,13,22,2
+490022,60,15,25,2
+490023,73,10,17,3
+490024,64,12,24,2
+490032,61,15,24,2
+490033,83,5,12,5
+490037,73,8,19,3
+490038,78,5,17,4
+490040,70,10,20,3
+490041,71,10,19,3
+490042,68,9,23,3
+490043,78,7,15,4
+490044,63,13,24,2
+490045,78,6,16,4
+490046,68,8,24,3
+490048,58,16,26,1
+490050,78,6,16,4
+490052,70,10,20,3
+490053,76,6,18,4
+490057,67,12,21,3
+490059,60,17,23,1
+490060,80,6,14,4
+490063,78,6,16,4
+490066,71,11,18,3
+490067,64,12,24,2
+490069,62,15,23,2
+490075,69,12,19,2
+490077,70,9,21,3
+490084,80,5,15,4
+490088,76,7,17,4
+490089,75,6,19,4
+490090,69,10,21,3
+490092,73,12,15,3
+490093,70,10,20,3
+490094,63,13,24,Not Available
+490097,68,21,11,Not Available
+490098,79,3,18,5
+490101,78,7,15,4
+490104,Not Available,Not Available,Not Available,Not Available
+490107,76,8,16,4
+490110,67,14,19,2
+490111,67,12,21,2
+490112,60,17,23,1
+490113,77,6,17,4
+490114,65,17,18,Not Available
+490115,78,7,15,4
+490116,81,3,16,5
+490117,82,5,13,Not Available
+490118,68,10,22,3
+490119,71,10,19,3
+490120,61,17,22,2
+490122,75,7,18,4
+490126,79,5,16,4
+490127,80,7,13,4
+490130,74,7,19,3
+490136,61,16,23,1
+490140,77,8,15,4
+490141,66,15,19,2
+490143,69,10,21,3
+490144,81,5,14,5
+490145,72,9,19,3
+490147,Not Available,Not Available,Not Available,Not Available
+491300,Not Available,Not Available,Not Available,Not Available
+491302,85,2,13,5
+491303,Not Available,Not Available,Not Available,Not Available
+491304,73,9,18,3
+491305,74,8,18,3
+491307,83,3,14,5
+491308,78,4,18,4
+491309,Not Available,Not Available,Not Available,Not Available
+493300,Not Available,Not Available,Not Available,Not Available
+493301,Not Available,Not Available,Not Available,Not Available
+500002,79,4,17,4
+500003,71,9,20,3
+500005,63,14,23,2
+500007,83,5,12,5
+500008,74,7,19,4
+500011,66,11,23,2
+500014,59,17,24,1
+500015,58,17,25,1
+500016,75,6,19,4
+500019,67,11,22,2
+500021,63,11,26,2
+500024,65,12,23,2
+500025,76,9,15,3
+500026,57,19,24,1
+500027,61,9,30,2
+500030,62,15,23,2
+500031,62,13,25,2
+500033,70,10,20,3
+500036,62,13,25,2
+500037,72,8,20,Not Available
+500039,69,11,20,3
+500041,69,11,20,3
+500044,60,16,24,2
+500050,61,14,25,2
+500051,73,9,18,3
+500052,72,5,23,Not Available
+500053,76,5,19,4
+500054,65,10,25,2
+500058,72,10,18,3
+500060,63,11,26,2
+500064,59,14,27,2
+500072,70,9,21,3
+500077,71,9,20,3
+500079,60,18,22,1
+500084,77,9,14,3
+500088,71,9,20,3
+500108,60,16,24,2
+500119,66,11,23,2
+500124,71,8,21,3
+500129,61,15,24,2
+500139,77,7,16,4
+500141,61,15,24,2
+500150,75,7,18,4
+500151,78,5,17,4
+500152,74,10,16,3
+500154,66,17,17,2
+501301,Not Available,Not Available,Not Available,Not Available
+501302,Not Available,Not Available,Not Available,Not Available
+501303,87,5,8,Not Available
+501304,Not Available,Not Available,Not Available,Not Available
+501305,94,2,4,Not Available
+501307,Not Available,Not Available,Not Available,Not Available
+501308,81,5,14,Not Available
+501309,83,8,9,Not Available
+501310,80,2,18,5
+501311,Not Available,Not Available,Not Available,Not Available
+501312,79,4,17,4
+501313,Not Available,Not Available,Not Available,Not Available
+501314,78,3,19,Not Available
+501315,85,0,15,Not Available
+501316,89,2,9,Not Available
+501317,Not Available,Not Available,Not Available,Not Available
+501318,75,9,16,Not Available
+501319,Not Available,Not Available,Not Available,Not Available
+501320,Not Available,Not Available,Not Available,Not Available
+501321,91,2,7,Not Available
+501322,Not Available,Not Available,Not Available,Not Available
+501323,77,6,17,4
+501324,Not Available,Not Available,Not Available,Not Available
+501325,Not Available,Not Available,Not Available,Not Available
+501326,81,3,16,Not Available
+501327,75,8,17,Not Available
+501328,80,6,14,4
+501329,78,7,15,Not Available
+501330,74,10,16,3
+501331,83,7,10,4
+501332,82,3,15,5
+501333,73,6,21,3
+501334,Not Available,Not Available,Not Available,Not Available
+501335,80,6,14,4
+501336,80,4,16,5
+501337,74,8,18,3
+501338,Not Available,Not Available,Not Available,Not Available
+501339,78,9,13,3
+501340,Not Available,Not Available,Not Available,Not Available
+503300,Not Available,Not Available,Not Available,Not Available
+503301,Not Available,Not Available,Not Available,Not Available
+503302,Not Available,Not Available,Not Available,Not Available
+510001,66,13,21,2
+510002,66,11,23,2
+510006,64,12,24,2
+510007,69,10,21,3
+510008,71,12,17,3
+510012,67,10,23,3
+510013,71,10,19,3
+510022,65,12,23,2
+510023,61,16,23,2
+510024,68,10,22,3
+510029,55,18,27,1
+510030,70,8,22,3
+510031,68,11,21,Not Available
+510038,71,9,20,3
+510046,61,20,19,1
+510048,79,6,15,4
+510050,71,11,18,3
+510055,73,5,22,4
+510058,65,12,23,2
+510062,69,15,16,2
+510070,65,13,22,2
+510072,83,5,12,5
+510086,84,5,11,Not Available
+510091,70,4,26,Not Available
+510093,69,8,23,Not Available
+511300,Not Available,Not Available,Not Available,Not Available
+511301,Not Available,Not Available,Not Available,Not Available
+511303,Not Available,Not Available,Not Available,Not Available
+511304,Not Available,Not Available,Not Available,Not Available
+511306,76,13,11,Not Available
+511307,Not Available,Not Available,Not Available,Not Available
+511308,71,8,21,Not Available
+511309,93,2,5,5
+511310,100,0,0,Not Available
+511311,93,1,6,Not Available
+511312,87,1,12,Not Available
+511313,90,1,9,5
+511314,87,5,8,Not Available
+511315,85,4,11,5
+511316,91,2,7,5
+511317,Not Available,Not Available,Not Available,Not Available
+511318,Not Available,Not Available,Not Available,Not Available
+511319,83,4,13,5
+511320,83,5,12,5
+511321,82,5,13,5
+511322,Not Available,Not Available,Not Available,Not Available
+520002,62,16,22,2
+520004,81,2,17,5
+520008,68,9,23,3
+520009,74,7,19,4
+520011,81,5,14,4
+520019,75,7,18,4
+520021,66,13,21,2
+520028,60,13,27,2
+520030,67,11,22,2
+520033,81,3,16,5
+520034,85,3,12,5
+520035,78,5,17,4
+520037,73,8,19,3
+520038,85,3,12,5
+520041,70,12,18,3
+520044,71,9,20,3
+520045,66,12,22,2
+520049,66,10,24,3
+520051,67,11,22,2
+520057,78,5,17,4
+520059,73,7,20,4
+520062,64,12,24,2
+520063,64,11,25,2
+520066,68,10,22,3
+520070,74,7,19,4
+520071,73,5,22,4
+520075,75,6,19,4
+520076,82,2,16,5
+520078,82,2,16,5
+520083,74,9,17,3
+520087,64,12,24,2
+520088,76,6,18,4
+520089,73,8,19,3
+520091,82,4,14,5
+520095,77,8,15,4
+520096,71,9,20,3
+520097,64,12,24,2
+520098,66,10,24,3
+520100,65,13,22,2
+520102,68,14,18,2
+520103,65,13,22,2
+520107,67,10,23,3
+520109,73,3,24,4
+520113,75,7,18,4
+520116,72,8,20,3
+520136,70,10,20,3
+520138,64,13,23,2
+520139,69,9,22,3
+520160,64,13,23,2
+520177,67,10,23,3
+520189,71,10,19,3
+520193,81,5,14,5
+520194,87,7,6,5
+520196,91,4,5,5
+520198,72,9,19,3
+520202,83,4,13,5
+520205,83,3,14,5
+520206,64,15,21,2
+520207,74,7,19,4
+520208,63,15,22,2
+520210,72,8,20,3
+520212,84,5,11,5
+520213,72,10,18,3
+520214,77,7,16,Not Available
+520215,76,5,19,Not Available
+521300,72,8,20,Not Available
+521302,83,3,14,Not Available
+521303,80,3,17,Not Available
+521304,82,2,16,Not Available
+521305,92,0,8,Not Available
+521307,Not Available,Not Available,Not Available,Not Available
+521308,81,3,16,5
+521309,82,0,18,Not Available
+521310,78,2,20,Not Available
+521311,Not Available,Not Available,Not Available,Not Available
+521312,91,2,7,Not Available
+521313,93,7,0,Not Available
+521314,87,1,12,Not Available
+521315,84,2,14,5
+521316,91,0,9,Not Available
+521317,Not Available,Not Available,Not Available,Not Available
+521318,82,5,13,Not Available
+521319,93,1,6,Not Available
+521320,81,6,13,4
+521321,82,6,12,4
+521322,84,5,11,Not Available
+521323,91,5,4,Not Available
+521324,79,3,18,5
+521325,83,4,13,Not Available
+521326,69,7,24,3
+521327,84,4,12,5
+521328,94,1,5,Not Available
+521329,73,8,19,3
+521330,91,1,8,5
+521331,85,6,9,Not Available
+521332,84,0,16,Not Available
+521333,83,4,13,5
+521334,70,9,21,3
+521335,72,10,18,3
+521336,79,4,17,4
+521337,76,8,16,4
+521338,89,3,8,5
+521339,80,6,14,Not Available
+521340,90,2,8,5
+521341,88,2,10,5
+521342,79,6,15,Not Available
+521343,89,4,7,5
+521344,89,2,9,Not Available
+521345,86,3,11,5
+521346,72,6,22,4
+521347,81,5,14,4
+521348,89,1,10,5
+521349,76,6,18,4
+521350,72,9,19,3
+521351,83,3,14,5
+521352,84,5,11,5
+521353,84,2,14,Not Available
+521354,87,5,8,5
+521355,73,6,21,4
+521356,65,6,29,Not Available
+521357,85,5,10,5
+521358,89,3,8,5
+521359,83,5,12,5
+523300,Not Available,Not Available,Not Available,Not Available
+523302,Not Available,Not Available,Not Available,Not Available
+530002,79,6,15,4
+530006,74,9,17,3
+530008,59,20,21,1
+530011,75,9,16,3
+530012,68,12,20,3
+530014,81,4,15,5
+530015,85,3,12,5
+530025,76,7,17,4
+530032,83,4,13,Not Available
+530034,84,9,7,Not Available
+530037,Not Available,Not Available,Not Available,Not Available
+531301,Not Available,Not Available,Not Available,Not Available
+531302,84,5,11,5
+531303,Not Available,Not Available,Not Available,Not Available
+531304,79,5,16,Not Available
+531305,67,12,21,Not Available
+531306,71,6,23,Not Available
+531307,85,5,10,Not Available
+531308,63,6,31,Not Available
+531309,80,8,12,Not Available
+531310,83,4,13,5
+531311,69,6,25,Not Available
+531312,78,7,15,4
+531313,78,8,14,4
+531314,79,10,11,Not Available
+531315,Not Available,Not Available,Not Available,Not Available
+531316,70,4,26,Not Available
+640001,Not Available,Not Available,Not Available,Not Available
+650001,Not Available,Not Available,Not Available,Not Available
+650003,Not Available,Not Available,Not Available,Not Available
+660001,Not Available,Not Available,Not Available,Not Available
+670005,74,10,16,3
+670006,84,8,8,4
+670008,86,5,9,5
+670010,Not Available,Not Available,Not Available,Not Available
+670023,81,5,14,5
+670025,76,8,16,4
+670031,65,15,20,2
+670034,76,7,17,4
+670041,68,13,19,3
+670043,67,12,21,2
+670044,78,8,14,4
+670047,59,20,21,1
+670049,82,8,10,4
+670053,75,6,19,4
+670054,78,8,14,4
+670055,73,10,17,3
+670056,75,9,16,3
+670059,79,5,16,4
+670060,58,19,23,1
+670062,79,18,3,Not Available
+670067,87,3,10,5
+670068,75,9,16,3
+670069,78,7,15,4
+670071,79,6,15,4
+670073,82,2,16,5
+670075,78,5,17,4
+670076,87,3,10,5
+670077,80,5,15,4
+670078,70,13,17,2
+670080,77,10,13,3
+670082,73,8,19,3
+670085,72,9,19,3
+670088,77,6,17,4
+670090,59,17,24,Not Available
+670093,Not Available,Not Available,Not Available,Not Available
+670098,74,11,15,3
+670102,82,6,12,Not Available
+670103,77,7,16,4
+670106,78,7,15,4
+670107,Not Available,Not Available,Not Available,Not Available
+670108,81,6,13,4
+670109,Not Available,Not Available,Not Available,Not Available
+670112,83,7,10,4
+670115,Not Available,Not Available,Not Available,Not Available
+670120,61,18,21,1
+670121,Not Available,Not Available,Not Available,Not Available
+670122,82,4,14,5
+670124,79,9,12,Not Available
+670125,Not Available,Not Available,Not Available,Not Available
+670128,89,3,8,5
+670131,82,3,15,Not Available
+670132,79,9,12,Not Available
+670133,Not Available,Not Available,Not Available,Not Available
+670134,90,4,6,Not Available
+670135,Not Available,Not Available,Not Available,Not Available
+670136,86,6,8,Not Available
+670143,Not Available,Not Available,Not Available,Not Available
+670259,78,10,12,Not Available
+670260,76,9,15,3
+670265,72,9,19,3
+670266,Not Available,Not Available,Not Available,Not Available
+670267,Not Available,Not Available,Not Available,Not Available
+670280,Not Available,Not Available,Not Available,Not Available
+670285,Not Available,Not Available,Not Available,Not Available
+670300,87,3,10,5
+670309,72,8,20,3
+670314,Not Available,Not Available,Not Available,Not Available
+670320,Not Available,Not Available,Not Available,Not Available
+670321,Not Available,Not Available,Not Available,Not Available
+670322,Not Available,Not Available,Not Available,Not Available
+670323,Not Available,Not Available,Not Available,Not Available
+671300,67,9,24,Not Available
+671301,Not Available,Not Available,Not Available,Not Available
